@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DrBham
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning basic of Cyber Security and c++
 - 📫 How to reach me @dreginald8 / dimasreginal8@gmail.com
 
 <!---
