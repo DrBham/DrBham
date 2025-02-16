@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @DrBham
-- 👀 I’m interested in Cyber Security
