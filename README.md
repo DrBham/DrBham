@@ -4,12 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Konnichiwa!%20I'm%20DrBham%20🌸&fontSize=38&fontAlignY=38&desc=Just%20a%20beginner%20exploring%20the%20vast%20ocean%20of%20Networking%20~%20(｡•̀ᴗ-)✧&descAlignY=62&descSize=16&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <p align="center">
-    <a href="https://github.com/DrBham">
-      <img src="https://komarev.com/ghpvc/?username=DrBham&label=Profile%20Views%20👀&color=ec5990&style=for-the-badge" alt="Profile Views" />
-    </a>
+    <img src="https://hits.sh/github.com/DrBham/DrBham.svg?label=Profile%20Views%20👀&color=ec5990" alt="Profile Views" />
   </p>
 
-  <img src="https://media.giphy.com/media/LmN8OYiChUwwg/giphy.gif" width="300" alt="Anime Coding GIF" />
+  <img src="https://raw.githubusercontent.com/gist/teocci/7d23d85d71c84ec6ab67756e1b69ebbe/raw/ea1e2d7e5dcf49021e102213702581ad7f4ab1f8/anime-sleepy-typing.gif" width="360" alt="Anime Coding" />
 
   <p align="center">
     <i>"Satu paket data dikirim, sejuta doa semoga tidak Request Timed Out (RTO)... (´• ω •`)"</i>
@@ -23,7 +21,7 @@
 
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td width="72%" valign="top">
       <ul>
         <li>🌱 <b>Status</b>: Masih pemula / newbie yang lagi penasaran dan antusias di dunia komputer & jaringan (Networking).</li>
         <li>📖 <b>Sedang Dipelajari</b>: Dasar-dasar <b>MikroTik RouterOS</b> (belajar cara setting IP, DHCP, routing simpel, dan firewall dasar).</li>
@@ -33,8 +31,8 @@
         <li>💬 <b>Prinsip Belajar</b>: <i>Trial, Error, RTO, Tanya Google, Ulangi lagi sampai ping-nya reply!</i> ٩(◕‿◕｡)۶</li>
       </ul>
     </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="150" alt="Anime Chibi" />
+    <td width="28%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="130" alt="Cute Anime Waving" />
     </td>
   </tr>
 </table>
@@ -46,12 +44,13 @@
 <div align="center">
 
 #### 🛠️ Alat / Software Simulasi & Praktik
+
 ![MikroTik](https://img.shields.io/badge/MikroTik-Lagi_Belajar-ec5990?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-Pernah_Coba-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-Masih_Mengamati-6C5CE7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab_Simulasi-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 #### 📝 Hal-Hal Dasar yang Sedang Diulik:
+
 `Pengenalan TCP/IP` • `Subnetting Dasar` • `Kabel & Topologi Sederhana` • `Ping & Troubleshooting Awal`
 
 </div>
