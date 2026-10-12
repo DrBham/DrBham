@@ -3,11 +3,9 @@
   <!-- Anime Banner / Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Konnichiwa!%20I'm%20DrBham%20🌸&fontSize=38&fontAlignY=38&desc=Just%20a%20beginner%20exploring%20the%20vast%20ocean%20of%20Networking%20~%20(｡•̀ᴗ-)✧&descAlignY=62&descSize=16&fontColor=ffffff" width="100%" alt="Header Banner" />
 
-  <p align="center">
-    <img src="https://hits.sh/github.com/DrBham/DrBham.svg?label=Profile%20Views%20👀&color=ec5990" alt="Profile Views" />
-  </p>
+  <br />
 
-  <img src="https://raw.githubusercontent.com/gist/teocci/7d23d85d71c84ec6ab67756e1b69ebbe/raw/ea1e2d7e5dcf49021e102213702581ad7f4ab1f8/anime-sleepy-typing.gif" width="360" alt="Anime Coding" />
+  <img src="./assets/chibi.gif" width="180" alt="Anime Chibi" />
 
   <p align="center">
     <i>"Satu paket data dikirim, sejuta doa semoga tidak Request Timed Out (RTO)... (´• ω •`)"</i>
@@ -32,7 +30,7 @@
       </ul>
     </td>
     <td width="28%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="130" alt="Cute Anime Waving" />
+      <img src="./assets/wave.gif" width="120" alt="Cute Anime Waving" />
     </td>
   </tr>
 </table>
@@ -70,15 +68,6 @@ flowchart TD
     style C fill:#a1c4fd,stroke:#fff,stroke-width:2px,color:#333
     style D fill:#c2e9fb,stroke:#fff,stroke-width:2px,color:#333
 ```
-
----
-
-### 📊 Catatan Aktivitas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrBham&show_icons=true&theme=buefy&hide_border=false&border_radius=10" alt="DrBham's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrBham&layout=compact&theme=buefy&hide_border=false&border_radius=10" alt="DrBham's Top Languages" />
-</div>
 
 ---
 
