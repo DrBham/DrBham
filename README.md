@@ -5,7 +5,7 @@
 
   <br />
 
-  <img src="./assets/chibi.gif" width="180" alt="Anime Chibi" />
+  <img src="./assets/doa.jpg" width="180" alt="Anime Chibi" />
 
   <p align="center">
     <i>"Satu paket data dikirim, sejuta doa semoga tidak Request Timed Out (RTO)... (´• ω •`)"</i>
@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td width="28%" align="center" valign="middle">
-      <img src="./assets/wave.gif" width="120" alt="Cute Anime Waving" />
+      <img src="./assets/mikir.jpg" width="120" alt="Cute Anime Waving" />
     </td>
   </tr>
 </table>
