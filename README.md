@@ -1,78 +1,79 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hi,%20I'm%20DrBham&fontSize=42&fontAlignY=38&desc=Beginner%20in%20Computer%20Networking%20%26%20IT%20Infrastructure&descAlignY=62&descSize=16&fontColor=e0e0e0" width="100%" alt="Header Banner" />
 
-  <!-- Anime Banner / Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Konnichiwa!%20I'm%20DrBham%20🌸&fontSize=38&fontAlignY=38&desc=Just%20a%20beginner%20exploring%20the%20vast%20ocean%20of%20Networking%20~%20(｡•̀ᴗ-)✧&descAlignY=62&descSize=16&fontColor=ffffff" width="100%" alt="Header Banner" />
+<br/>
 
-  <br />
-
-  <img src="./assets/doa.jpg" width="180" alt="Anime Chibi" />
-
-  <p align="center">
-    <i>"Halo"</i>
-  </p>
-
-</div>
-
----
-
-### 🌸 About Me (Masih Pemula / Lv. 1 Trainee)
-
-<table>
+<table width="100%">
   <tr>
-    <td width="72%" valign="top">
-      <ul>
-        <li>🌱 <b>Status</b>: Masih pemula / newbie yang lagi penasaran dan antusias di dunia komputer & jaringan (Networking).</li>
-        <li>📖 <b>Sedang Dipelajari</b>: Dasar-dasar <b>MikroTik RouterOS</b> (belajar cara setting IP, DHCP, routing simpel, dan firewall dasar).</li>
-        <li>🧪 <b>Eksperimen Sebelumnya</b>: Pernah coba-coba bikin simulasi topologi jaringan sederhana pakai <b>Cisco Packet Tracer</b>.</li>
-        <li>🎯 <b>Target Kedepan</b>: Ingin belajar lebih dalam lagi tentang konsep & konfigurasi perangkat <b>Cisco</b> pelan-pelan.</li>
-        <li>🍙 <b>Hobi Sampingan</b>: Nonton anime & ngulik hal-hal berbau teknologi.</li>
-        <li>💬 <b>Prinsip Belajar</b>: <i>Trial, Error, RTO, Tanya Google, Ulangi lagi sampai ping-nya reply!</i> ٩(◕‿◕｡)۶</li>
-      </ul>
+    <td width="62%" valign="top">
+
+### About Me
+
+Halo! Saya **DrBham**, saat ini sedang fokus mempelajari dasar-dasar **jaringan komputer (Networking)** dan infrastruktur IT. Masih dalam tahap awal belajar, membiasakan diri dengan konfigurasi dasar, simulasi lab, serta pemecahan masalah jaringan.
+
+| Informasi | Keterangan |
+| :--- | :--- |
+| **Status** | Pemula / Beginner |
+| **Fokus Saat Ini** | Dasar-dasar MikroTik RouterOS |
+| **Lab & Eksperimen** | Cisco Packet Tracer & VirtualBox |
+| **Target Berikutnya** | Konfigurasi Cisco Switch & Router |
+| **Prinsip Belajar** | Praktik mandiri, analisis error, dan dokumentasi |
+
     </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="./assets/mikir.jpg" width="120" alt="Cute Anime Waving" />
+    <td width="38%" align="center" valign="middle">
+      <img src="./assets/doa.jpg" width="210" style="border-radius: 10px;" alt="Profile" />
+      <br/>
+      <small><i>"Satu paket data dikirim, satu proses belajar bertambah."</i></small>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🎒 Yang Sedang Saya Pelajari & Coba (Learning Lab)
+### What I'm Learning
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/MikroTik-RouterOS-ec5990?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" /><br/>
+      <sub>Dasar IP, DHCP, Routing Simpel & Firewall</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /><br/>
+      <sub>Perancangan & Simulasi Topologi Jaringan</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/VirtualBox-Lab_Lokal-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" /><br/>
+      <sub>Simulasi OS & Testing Lingkungan Lab</sub>
+    </td>
+  </tr>
+</table>
 
-#### 🛠️ Alat / Software Simulasi & Praktik
+**Fondasi & Konsep Dasar:**
 
-![MikroTik](https://img.shields.io/badge/MikroTik-Lagi_Belajar-ec5990?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-Pernah_Coba-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab_Simulasi-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-#### 📝 Hal-Hal Dasar yang Sedang Diulik:
-
-`Pengenalan TCP/IP` • `Subnetting Dasar` • `Kabel & Topologi Sederhana` • `Ping & Troubleshooting Awal`
-
-</div>
+`TCP/IP Model` &nbsp;•&nbsp; `Subnetting IPv4` &nbsp;•&nbsp; `Topologi Jaringan` &nbsp;•&nbsp; `Routing Dasar` &nbsp;•&nbsp; `Troubleshooting (Ping & Traceroute)`
 
 ---
 
-### 🗺️ Quest Belajar Saya (Roadmap)
+### Learning Roadmap
 
 ```mermaid
-flowchart TD
-    A["🎒 Quest 1: Cisco Packet Tracer (Simulasi Pemula) ✅"] --> B["⚙️ Quest 2: MikroTik RouterOS (Sedang Dipelajari 🐾)"]
-    B --> C["📚 Quest 3: Memperdalam Konsep Jaringan & Cisco (Next Target 🚀)"]
-    C --> D["✨ Goal: Paham Jaringan dengan Lebih Baik 🎓"]
+flowchart LR
+    A["Tahap 1: Selesai\nSimulasi Jaringan Dasar\n(Cisco Packet Tracer)"]
+    B["Tahap 2: Sedang Berjalan\nKonfigurasi RouterOS\n(MikroTik Dasar)"]
+    C["Tahap 3: Target Berikutnya\nKonsep Lanjutan & Perangkat\n(Cisco Switch / Router)"]
+    D["Tujuan\nMemahami Infrastruktur\nJaringan dengan Baik"]
 
-    style A fill:#ff9a9e,stroke:#fff,stroke-width:2px,color:#333
-    style B fill:#fecfef,stroke:#ff6b81,stroke-width:2px,color:#333
-    style C fill:#a1c4fd,stroke:#fff,stroke-width:2px,color:#333
-    style D fill:#c2e9fb,stroke:#fff,stroke-width:2px,color:#333
+    A --> B --> C --> D
+
+    style A fill:#1e3d59,stroke:#17b978,stroke-width:2px,color:#f5f5f5
+    style B fill:#0f3460,stroke:#e94560,stroke-width:2px,color:#f5f5f5
+    style C fill:#233142,stroke:#4f8a8b,stroke-width:2px,color:#f5f5f5
+    style D fill:#1b262c,stroke:#bbe1fa,stroke-width:2px,color:#f5f5f5
 ```
 
 ---
 
 <div align="center">
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,11,1&height=120&section=footer" width="100%" alt="Footer Banner" />
-  <p><i>Terima kasih sudah mampir ke profil saya! Mohon bimbingannya senpai~ (*/ω＼*)</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <sub>Terima kasih telah berkunjung ke profil GitHub saya.</sub>
 </div>
