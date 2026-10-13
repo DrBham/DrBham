@@ -8,7 +8,7 @@
   <img src="./assets/doa.jpg" width="180" alt="Anime Chibi" />
 
   <p align="center">
-    <i>"Satu paket data dikirim, sejuta doa semoga tidak Request Timed Out (RTO)... (´• ω •`)"</i>
+    <i>"Halo"</i>
   </p>
 
 </div>
