@@ -1,27 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hi,%20I'm%20DrBham&fontSize=42&fontAlignY=38&desc=Beginner%20in%20Computer%20Networking%20%26%20IT%20Infrastructure&descAlignY=62&descSize=16&fontColor=e0e0e0" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I%20am%20DrBham&fontSize=40&fontAlignY=38&desc=Beginner%20in%20Computer%20Networking%20and%20IT%20Infrastructure&descAlignY=62&descSize=15&fontColor=ffffff" width="100%" alt="Header Banner" />
 
-<br/>
+<br />
 
-<table width="100%">
+<table>
   <tr>
-    <td width="62%" valign="top">
-
-### About Me
-
-Halo! Saya **DrBham**, saat ini sedang fokus mempelajari dasar-dasar **jaringan komputer (Networking)** dan infrastruktur IT. Masih dalam tahap awal belajar, membiasakan diri dengan konfigurasi dasar, simulasi lab, serta pemecahan masalah jaringan.
-
-| Informasi | Keterangan |
-| :--- | :--- |
-| **Status** | Pemula / Beginner |
-| **Fokus Saat Ini** | Dasar-dasar MikroTik RouterOS |
-| **Lab & Eksperimen** | Cisco Packet Tracer & VirtualBox |
-| **Target Berikutnya** | Konfigurasi Cisco Switch & Router |
-| **Prinsip Belajar** | Praktik mandiri, analisis error, dan dokumentasi |
-
+    <td width="68%" valign="top">
+      <h3>About Me</h3>
+      <p>
+        Halo! Saya <b>DrBham</b>, seorang pemula yang sedang fokus mempelajari dasar-dasar <b>jaringan komputer (Networking)</b> dan infrastruktur IT. Masih dalam proses awal membangun fondasi pemahaman, simulasi konfigurasi perangkat, dan troubleshooting sederhana.
+      </p>
+      <ul>
+        <li><b>Status:</b> Pemula / Beginner</li>
+        <li><b>Fokus Saat Ini:</b> Dasar-dasar MikroTik RouterOS (IP, DHCP, Routing Dasar)</li>
+        <li><b>Lab &amp; Eksperimen:</b> Cisco Packet Tracer &amp; VirtualBox</li>
+        <li><b>Target Berikutnya:</b> Konfigurasi Switch &amp; Router Cisco</li>
+        <li><b>Prinsip Belajar:</b> Praktik mandiri, analisis error, dan dokumentasi</li>
+      </ul>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="./assets/doa.jpg" width="210" style="border-radius: 10px;" alt="Profile" />
-      <br/>
+    <td width="32%" align="center" valign="middle">
+      <img src="./assets/doa.jpg" width="190" alt="Profile" />
+      <br />
       <small><i>"Satu paket data dikirim, satu proses belajar bertambah."</i></small>
     </td>
   </tr>
@@ -34,21 +32,21 @@ Halo! Saya **DrBham**, saat ini sedang fokus mempelajari dasar-dasar **jaringan 
 <table width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/MikroTik-RouterOS-ec5990?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" /><br/>
-      <sub>Dasar IP, DHCP, Routing Simpel & Firewall</sub>
+      <img src="https://img.shields.io/badge/MikroTik-RouterOS-1F4068?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" /><br />
+      <sub>IP, DHCP, Routing Simpel &amp; Firewall</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /><br/>
-      <sub>Perancangan & Simulasi Topologi Jaringan</sub>
+      <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-0496FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /><br />
+      <sub>Simulasi &amp; Topologi Jaringan</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/VirtualBox-Lab_Lokal-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" /><br/>
-      <sub>Simulasi OS & Testing Lingkungan Lab</sub>
+      <img src="https://img.shields.io/badge/VirtualBox-Lab_Lokal-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" /><br />
+      <sub>Lab Virtual &amp; Eksperimen OS</sub>
     </td>
   </tr>
 </table>
 
-**Fondasi & Konsep Dasar:**
+**Fondasi &amp; Konsep Dasar:**
 
 `TCP/IP Model` &nbsp;•&nbsp; `Subnetting IPv4` &nbsp;•&nbsp; `Topologi Jaringan` &nbsp;•&nbsp; `Routing Dasar` &nbsp;•&nbsp; `Troubleshooting (Ping & Traceroute)`
 
@@ -58,22 +56,20 @@ Halo! Saya **DrBham**, saat ini sedang fokus mempelajari dasar-dasar **jaringan 
 
 ```mermaid
 flowchart LR
-    A["Tahap 1: Selesai\nSimulasi Jaringan Dasar\n(Cisco Packet Tracer)"]
-    B["Tahap 2: Sedang Berjalan\nKonfigurasi RouterOS\n(MikroTik Dasar)"]
-    C["Tahap 3: Target Berikutnya\nKonsep Lanjutan & Perangkat\n(Cisco Switch / Router)"]
-    D["Tujuan\nMemahami Infrastruktur\nJaringan dengan Baik"]
+    A["Tahap 1: Selesai<br/>Simulasi Jaringan Dasar<br/>(Cisco Packet Tracer)"] --> B["Tahap 2: Sedang Berjalan<br/>Konfigurasi RouterOS<br/>(MikroTik Dasar)"]
+    B --> C["Tahap 3: Target Berikutnya<br/>Konsep Jaringan Lanjutan<br/>(Cisco Switch & Router)"]
+    C --> D["Tujuan Akhir<br/>Pemahaman Jaringan<br/>yang Solid"]
 
-    A --> B --> C --> D
-
-    style A fill:#1e3d59,stroke:#17b978,stroke-width:2px,color:#f5f5f5
-    style B fill:#0f3460,stroke:#e94560,stroke-width:2px,color:#f5f5f5
-    style C fill:#233142,stroke:#4f8a8b,stroke-width:2px,color:#f5f5f5
-    style D fill:#1b262c,stroke:#bbe1fa,stroke-width:2px,color:#f5f5f5
+    style A fill:#1e3d59,stroke:#17b978,stroke-width:2px,color:#ffffff
+    style B fill:#0f3460,stroke:#e94560,stroke-width:2px,color:#ffffff
+    style C fill:#233142,stroke:#4f8a8b,stroke-width:2px,color:#ffffff
+    style D fill:#162447,stroke:#54a0ff,stroke-width:2px,color:#ffffff
 ```
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <br />
   <sub>Terima kasih telah berkunjung ke profil GitHub saya.</sub>
 </div>
