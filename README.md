@@ -2,28 +2,50 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="68%" valign="top">
-      <h3>👤 About Me</h3>
-      <p>
-        Halo! Saya <b>DrBham</b>, seorang pemula yang sedang fokus mempelajari dasar-dasar <b>jaringan komputer (Networking)</b> dan infrastruktur IT. Masih dalam proses awal membangun fondasi pemahaman, simulasi konfigurasi perangkat, dan troubleshooting sederhana.
-      </p>
-      <ul>
-        <li>🌱 <b>Status:</b> Pemula / Beginner (Fokus Jaringan &amp; IT)</li>
-        <li>📖 <b>Fokus Saat Ini:</b> Dasar-dasar MikroTik RouterOS (IP, DHCP, Routing Dasar, Firewall)</li>
-        <li>🧪 <b>Lab &amp; Eksperimen:</b> Simulasi topologi di Cisco Packet Tracer &amp; VirtualBox</li>
-        <li>🎯 <b>Target Berikutnya:</b> Konfigurasi perangkat Switch &amp; Router Cisco</li>
-        <li>💡 <b>Prinsip Belajar:</b> Praktik mandiri, analisis error saat RTO, dan konsisten belajar</li>
-      </ul>
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="./assets/doa.jpg" width="190" alt="Profile" />
-      <br />
-      <small><i>"Satu paket data dikirim, satu proses belajar bertambah."</i></small>
-    </td>
-  </tr>
-</table>
+### 👤 About Me
+
+Halo! Saya **DrBham**, seorang pemula yang sedang fokus mempelajari dasar-dasar **jaringan komputer (Networking)** dan infrastruktur IT. Masih dalam proses awal membangun fondasi pemahaman, simulasi konfigurasi perangkat, dan troubleshooting sederhana.
+
+- 🌱 **Status:** Pemula / Beginner (Fokus Jaringan & IT)
+- 📖 **Fokus Saat Ini:** Dasar-dasar MikroTik RouterOS (IP Address, DHCP, Routing Simpel, Firewall Dasar)
+- 🧪 **Lab & Eksperimen:** Simulasi topologi di Cisco Packet Tracer & VirtualBox
+- 🎯 **Target Berikutnya:** Konfigurasi mendalam perangkat Switch & Router Cisco
+- 💡 **Prinsip Belajar:** Praktik mandiri, analisis error saat RTO, dan konsisten belajar
+
+---
+
+### 💻 Network Lab — ASCII Art
+
+```
+  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *
+
+         ·    *    ·                        ·    *    ·
+       ·   .-----.   ·                    ·   .-----.   ·
+      *   /  SVR  \   *                  *   /  SVR  \   *
+       · |  [ ][ ] |  ·                 · |  [ ][ ] |  ·
+      *  |  [ ][ ] |  *                 * |  [ ][ ] |  *
+       · |  [___]  |  ·                 · |  [___]  |  ·
+      *   \_______/   *                  *  \_______/  *
+         ·    |    ·                        ·    |    ·
+              |                                  |
+        .     |    .   .   .   .   .   .   .    |    .
+       . ·    .--------  ROUTER  --------.    ·  .
+       .      |   [::] =============== [::]  |     .
+        . ·   |   [::] =============== [::]  |  ·  .
+         .    .---------------------------------.    .
+         ·                   |                  ·
+         *           .-------·-------.          *
+         ·          /                 \         ·
+         *    .----.----.         .----.----.   *
+         ·   |   SWITCH  |       |   SWITCH  |  ·
+         *   |  ▓ ▓ ▓ ▓  |       |  ▓ ▓ ▓ ▓  | *
+         ·    '-----------'       '-----------'  ·
+         *    /    |    \          /    |    \   *
+         ·  [PC] [PC] [PC]      [PC] [PC] [PC]  ·
+         *   ·    ·    ·          ·    ·    ·    *
+
+  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *
+```
 
 ---
 
@@ -45,14 +67,14 @@
 
 <br />
 
-**📚 Fondasi &amp; Konsep Dasar yang Sedang Dipelajari:**
-- 📡 **Protokol &amp; Addressing:** TCP/IP Model, Subnetting IPv4, Default Gateway
-- 🔌 **Arsitektur Jaringan:** Topologi fisik &amp; logis, pengkabelan dasar
+**📚 Fondasi & Konsep Dasar yang Sedang Dipelajari:**
+- 📡 **Protokol & Addressing:** TCP/IP Model, Subnetting IPv4, Default Gateway
+- 🔌 **Arsitektur Jaringan:** Topologi fisik & logis, pengkabelan dasar
 - 🔍 **Troubleshooting Dasar:** Pengujian koneksi (Ping, Traceroute), identifikasi status RTO
 
 ---
 
-### Learning Roadmap
+### 🗺️ Learning Roadmap
 
 ```mermaid
 flowchart LR
@@ -65,6 +87,22 @@ flowchart LR
     style C fill:#233142,stroke:#4f8a8b,stroke-width:2px,color:#ffffff
     style D fill:#162447,stroke:#54a0ff,stroke-width:2px,color:#ffffff
 ```
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/drbham" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-drbham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dimasreginal8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dimasreginal8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
 
 ---
 
