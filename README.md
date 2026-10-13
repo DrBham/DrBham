@@ -1,113 +1,96 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I%20am%20DrBham&fontSize=40&fontAlignY=38&desc=Beginner%20in%20Computer%20Networking%20and%20IT%20Infrastructure&descAlignY=62&descSize=15&fontColor=ffffff" width="100%" alt="Header Banner" />
-
-<br />
-
-### 👤 About Me
-
-Halo! Saya **DrBham**, seorang pemula yang sedang fokus mempelajari dasar-dasar **jaringan komputer (Networking)** dan infrastruktur IT. Masih dalam proses awal membangun fondasi pemahaman, simulasi konfigurasi perangkat, dan troubleshooting sederhana.
-
-- 🌱 **Status:** Pemula / Beginner (Fokus Jaringan & IT)
-- 📖 **Fokus Saat Ini:** Dasar-dasar MikroTik RouterOS (IP Address, DHCP, Routing Simpel, Firewall Dasar)
-- 🧪 **Lab & Eksperimen:** Simulasi topologi di Cisco Packet Tracer & VirtualBox
-- 🎯 **Target Berikutnya:** Konfigurasi mendalam perangkat Switch & Router Cisco
-- 💡 **Prinsip Belajar:** Praktik mandiri, analisis error saat RTO, dan konsisten belajar
-
----
-
-### 💻 Network Lab — ASCII Art
-
-```
-  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *
-
-         ·    *    ·                        ·    *    ·
-       ·   .-----.   ·                    ·   .-----.   ·
-      *   /  SVR  \   *                  *   /  SVR  \   *
-       · |  [ ][ ] |  ·                 · |  [ ][ ] |  ·
-      *  |  [ ][ ] |  *                 * |  [ ][ ] |  *
-       · |  [___]  |  ·                 · |  [___]  |  ·
-      *   \_______/   *                  *  \_______/  *
-         ·    |    ·                        ·    |    ·
-              |                                  |
-        .     |    .   .   .   .   .   .   .    |    .
-       . ·    .--------  ROUTER  --------.    ·  .
-       .      |   [::] =============== [::]  |     .
-        . ·   |   [::] =============== [::]  |  ·  .
-         .    .---------------------------------.    .
-         ·                   |                  ·
-         *           .-------·-------.          *
-         ·          /                 \         ·
-         *    .----.----.         .----.----.   *
-         ·   |   SWITCH  |       |   SWITCH  |  ·
-         *   |  ▓ ▓ ▓ ▓  |       |  ▓ ▓ ▓ ▓  | *
-         ·    '-----------'       '-----------'  ·
-         *    /    |    \          /    |    \   *
-         ·  [PC] [PC] [PC]      [PC] [PC] [PC]  ·
-         *   ·    ·    ·          ·    ·    ·    *
-
-  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *  ·  *
-```
-
----
-
-### 🛠️ What I'm Learning
-
 <div align="center">
 
-  <img src="https://img.shields.io/badge/MikroTik-RouterOS-1F4068?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-0496FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VirtualBox-Lab_Lokal-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123B63,100:00B8D9&height=180&section=header&text=DrBham&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Network%20Engineer%20%7C%20Cisco%20%26%20MikroTik&descAlignY=62&descSize=16" alt="DrBham — Networking Profile" />
 
-  <br /><br />
-
-  `⚙️ IP, DHCP & Routing Simpel` &nbsp;•&nbsp; `🌐 Simulasi Topologi Jaringan` &nbsp;•&nbsp; `🖥️ Lab Virtual & Eksperimen OS`
+<a href="https://www.linkedin.com/in/drbham">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Computer%20Networking-00B8D9?style=flat-square" alt="Computer Networking" />
+<img src="https://img.shields.io/badge/Level-Learning-64748B?style=flat-square" alt="Currently learning" />
 
 </div>
 
-<br />
+## About Me
 
-**📚 Fondasi & Konsep Dasar yang Sedang Dipelajari:**
-- 📡 **Protokol & Addressing:** TCP/IP Model, Subnetting IPv4, Default Gateway
-- 🔌 **Arsitektur Jaringan:** Topologi fisik & logis, pengkabelan dasar
-- 🔍 **Troubleshooting Dasar:** Pengujian koneksi (Ping, Traceroute), identifikasi status RTO
+Halo! Saya **DrBham**, seorang mahasiswa dan pemula yang sedang membangun fondasi di bidang **computer networking dan infrastruktur IT**. Saya belajar melalui praktik, simulasi topologi, dan eksperimen lab mandiri.
 
----
+- 🌐 **Minat utama:** Networking, routing, switching, dan troubleshooting.
+- 🧭 **Sedang dipelajari:** Dasar MikroTik RouterOS, IPv4 subnetting, DHCP, dan routing.
+- 🧪 **Lab:** Cisco Packet Tracer dan VirtualBox.
+- 🎯 **Berikutnya:** Memperdalam konfigurasi router dan switch Cisco serta MikroTik.
+- 📚 **Prinsip belajar:** Pahami konsep, praktikkan di lab, lalu dokumentasikan hasilnya.
 
-### 🗺️ Learning Roadmap
-
-```mermaid
-flowchart LR
-    A["Tahap 1: Selesai<br/>Simulasi Jaringan Dasar<br/>(Cisco Packet Tracer)"] --> B["Tahap 2: Sedang Berjalan<br/>Konfigurasi RouterOS<br/>(MikroTik Dasar)"]
-    B --> C["Tahap 3: Target Berikutnya<br/>Konsep Jaringan Lanjutan<br/>(Cisco Switch & Router)"]
-    C --> D["Tujuan Akhir<br/>Pemahaman Jaringan<br/>yang Solid"]
-
-    style A fill:#1e3d59,stroke:#17b978,stroke-width:2px,color:#ffffff
-    style B fill:#0f3460,stroke:#e94560,stroke-width:2px,color:#ffffff
-    style C fill:#233142,stroke:#4f8a8b,stroke-width:2px,color:#ffffff
-    style D fill:#162447,stroke:#54a0ff,stroke-width:2px,color:#ffffff
-```
-
----
-
-### 📬 Connect With Me
+## Network Lab
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/drbham" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-drbham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dimasreginal8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dimasreginal8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+```text
+  [ SERVER ] ────────┐                         ┌──────── [ SERVER ]
+                     │                         │
+                     └───────┐         ┌───────┘
+                             │         │
+                       .===================.
+                       |   ROUTER / GW     |
+                       |  [ LAN ] [ WAN ]  |
+                       '=========+========='
+                                 |
+                       .=========+=========.
+                       |    CORE SWITCH     |
+                       |  o  o  o  o  o  o  |
+                       '==+====+====+====+=='
+                          |    |    |    |
+                       [ PC ] [ PC ] [ AP ] [ LAB ]
+```
+
+<sub>Belajar memahami bagaimana perangkat terhubung, bertukar data, dan berkomunikasi dalam sebuah jaringan.</sub>
 
 </div>
 
----
+## Currently Learning
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=120&section=footer" width="100%" alt="Footer Banner" />
-  <br />
-  <sub>Terima kasih telah berkunjung ke profil GitHub saya.</sub>
+
+<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-0496FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+<img src="https://img.shields.io/badge/MikroTik-RouterOS-1F4068?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik RouterOS" />
+<img src="https://img.shields.io/badge/VirtualBox-Virtual%20Lab-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+
+</div>
+
+| Area                    | Topics                                                                |
+| ----------------------- | --------------------------------------------------------------------- |
+| Networking Fundamentals | TCP/IP, IPv4 addressing, subnetting, default gateway                  |
+| Network Services        | DHCP and basic network configuration                                  |
+| Routing & Switching     | Basic routing, switch concepts, network topology                      |
+| Troubleshooting         | `ping`, `traceroute`, and diagnosing connectivity issues              |
+| Virtual Labs            | Building and testing topologies in Cisco Packet Tracer and VirtualBox |
+
+## Learning Roadmap
+
+<div align="center">
+
+```text
+FUNDAMENTALS  ──────▶  MIKROTIK BASICS  ──────▶  CISCO ROUTING & SWITCHING
+     │                       │                              │
+ Addressing, TCP/IP       RouterOS lab                More advanced labs
+ Subnetting, DHCP         Routing & firewall          Troubleshooting
+```
+
+</div>
+
+_Roadmap ini adalah proses belajar yang sedang saya jalani, bukan daftar sertifikasi atau keahlian yang sudah saya klaim._
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/drbham">
+  <img src="https://img.shields.io/badge/LinkedIn-DrBham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — DrBham" />
+</a>
+
+<br />
+
+<sub>Always learning. Always labbing. One network at a time.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,50:123B63,100:0B1220&height=90&section=footer" alt="" />
+
 </div>
