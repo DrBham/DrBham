@@ -5,16 +5,16 @@
 <table>
   <tr>
     <td width="68%" valign="top">
-      <h3>About Me</h3>
+      <h3>👤 About Me</h3>
       <p>
         Halo! Saya <b>DrBham</b>, seorang pemula yang sedang fokus mempelajari dasar-dasar <b>jaringan komputer (Networking)</b> dan infrastruktur IT. Masih dalam proses awal membangun fondasi pemahaman, simulasi konfigurasi perangkat, dan troubleshooting sederhana.
       </p>
       <ul>
-        <li><b>Status:</b> Pemula / Beginner</li>
-        <li><b>Fokus Saat Ini:</b> Dasar-dasar MikroTik RouterOS (IP, DHCP, Routing Dasar)</li>
-        <li><b>Lab &amp; Eksperimen:</b> Cisco Packet Tracer &amp; VirtualBox</li>
-        <li><b>Target Berikutnya:</b> Konfigurasi Switch &amp; Router Cisco</li>
-        <li><b>Prinsip Belajar:</b> Praktik mandiri, analisis error, dan dokumentasi</li>
+        <li>🌱 <b>Status:</b> Pemula / Beginner (Fokus Jaringan &amp; IT)</li>
+        <li>📖 <b>Fokus Saat Ini:</b> Dasar-dasar MikroTik RouterOS (IP, DHCP, Routing Dasar, Firewall)</li>
+        <li>🧪 <b>Lab &amp; Eksperimen:</b> Simulasi topologi di Cisco Packet Tracer &amp; VirtualBox</li>
+        <li>🎯 <b>Target Berikutnya:</b> Konfigurasi perangkat Switch &amp; Router Cisco</li>
+        <li>💡 <b>Prinsip Belajar:</b> Praktik mandiri, analisis error saat RTO, dan konsisten belajar</li>
       </ul>
     </td>
     <td width="32%" align="center" valign="middle">
@@ -27,28 +27,28 @@
 
 ---
 
-### What I'm Learning
+### 🛠️ What I'm Learning
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/MikroTik-RouterOS-1F4068?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" /><br />
-      <sub>IP, DHCP, Routing Simpel &amp; Firewall</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-0496FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /><br />
-      <sub>Simulasi &amp; Topologi Jaringan</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/VirtualBox-Lab_Lokal-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" /><br />
-      <sub>Lab Virtual &amp; Eksperimen OS</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-**Fondasi &amp; Konsep Dasar:**
+  <img src="https://img.shields.io/badge/MikroTik-RouterOS-1F4068?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-0496FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VirtualBox-Lab_Lokal-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 
-`TCP/IP Model` &nbsp;•&nbsp; `Subnetting IPv4` &nbsp;•&nbsp; `Topologi Jaringan` &nbsp;•&nbsp; `Routing Dasar` &nbsp;•&nbsp; `Troubleshooting (Ping & Traceroute)`
+  <br /><br />
+
+  `⚙️ IP, DHCP & Routing Simpel` &nbsp;•&nbsp; `🌐 Simulasi Topologi Jaringan` &nbsp;•&nbsp; `🖥️ Lab Virtual & Eksperimen OS`
+
+</div>
+
+<br />
+
+**📚 Fondasi &amp; Konsep Dasar yang Sedang Dipelajari:**
+- 📡 **Protokol &amp; Addressing:** TCP/IP Model, Subnetting IPv4, Default Gateway
+- 🔌 **Arsitektur Jaringan:** Topologi fisik &amp; logis, pengkabelan dasar
+- 🔍 **Troubleshooting Dasar:** Pengujian koneksi (Ping, Traceroute), identifikasi status RTO
 
 ---
 
