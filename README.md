@@ -1,96 +1,112 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123B63,100:00B8D9&height=180&section=header&text=DrBham&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Network%20Engineer%20%7C%20Cisco%20%26%20MikroTik&descAlignY=62&descSize=16" alt="DrBham — Networking Profile" />
+<!-- Medieval-inspired dark banner with subtle gold accents -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080A0D,45:202126,75:59452B,100:0C0D10&height=210&section=header&text=DR%20BHAM&fontSize=52&fontColor=E8D6AD&fontAlignY=38&desc=NETWORKING%20APPRENTICE%20%7C%20CISCO%20%26%20MIKROTIK&descAlignY=62&descSize=14&animation=fadeIn" alt="DrBham — Dark Medieval Networking Profile" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=C9A96E&center=true&vCenter=true&width=650&lines=Learning+one+network+at+a+time...;Exploring+RouterOS+and+Cisco+labs;Understand.+Configure.+Test.+Document." alt="Animated introduction" />
+
+<br/>
 
 <a href="https://www.linkedin.com/in/drbham">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-C9A96E?style=flat-square&logo=linkedin&logoColor=111111" alt="Connect on LinkedIn" />
 </a>
-<img src="https://img.shields.io/badge/Focus-Computer%20Networking-00B8D9?style=flat-square" alt="Computer Networking" />
-<img src="https://img.shields.io/badge/Level-Learning-64748B?style=flat-square" alt="Currently learning" />
+<img src="https://img.shields.io/badge/FOCUS-Networking-29251F?style=flat-square&labelColor=111111&color=8C7045" alt="Focus: Networking" />
+<img src="https://img.shields.io/badge/STATUS-Learning-29251F?style=flat-square&labelColor=111111&color=8C7045" alt="Status: Learning" />
 
 </div>
 
-## About Me
+---
 
-Halo! Saya **DrBham**, seorang mahasiswa dan pemula yang sedang membangun fondasi di bidang **computer networking dan infrastruktur IT**. Saya belajar melalui praktik, simulasi topologi, dan eksperimen lab mandiri.
+## ⚔️ About the Apprentice
 
-- 🌐 **Minat utama:** Networking, routing, switching, dan troubleshooting.
-- 🧭 **Sedang dipelajari:** Dasar MikroTik RouterOS, IPv4 subnetting, DHCP, dan routing.
-- 🧪 **Lab:** Cisco Packet Tracer dan VirtualBox.
-- 🎯 **Berikutnya:** Memperdalam konfigurasi router dan switch Cisco serta MikroTik.
-- 📚 **Prinsip belajar:** Pahami konsep, praktikkan di lab, lalu dokumentasikan hasilnya.
+Halo! Saya **DrBham**, mahasiswa yang sedang membangun fondasi di bidang **computer networking dan infrastruktur IT**. Saya masih dalam tahap belajar, jadi fokus saya adalah memahami konsep dasar, mencoba konfigurasi di lab, dan mendokumentasikan setiap hal yang saya pelajari.
 
-## Network Lab
+- **Main interests:** Networking, routing, switching, dan troubleshooting.
+- **Current studies:** MikroTik RouterOS, IPv4 addressing, subnetting, DHCP, dan routing dasar.
+- **Training grounds:** Cisco Packet Tracer dan VirtualBox.
+- **Learning principle:** Pelajari konsepnya, praktikkan di lab, uji hasilnya, lalu dokumentasikan.
+
+## 🏰 The Network Forge
+
+<div align="center">
+  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0F12&height=3&section=header" alt="" />
+</div>
+
+Saya menggunakan lab simulasi untuk mempelajari bagaimana perangkat saling terhubung—mulai dari addressing hingga routing dan troubleshooting.
+
+| Lab area | What I'm practicing |
+|:--|:--|
+| **Network foundations** | TCP/IP, IPv4 addressing, subnetting, default gateway |
+| **Network services** | DHCP dan konfigurasi jaringan dasar |
+| **Routing & switching** | Konsep router, switch, routing dasar, dan topologi |
+| **Troubleshooting** | `ping`, `traceroute`, serta pemeriksaan konektivitas |
+| **Virtual labs** | Membuat dan menguji topologi di Packet Tracer dan VirtualBox |
+
+## 📜 Current Quests
 
 <div align="center">
 
-```text
-  [ SERVER ] ────────┐                         ┌──────── [ SERVER ]
-                     │                         │
-                     └───────┐         ┌───────┘
-                             │         │
-                       .===================.
-                       |   ROUTER / GW     |
-                       |  [ LAN ] [ WAN ]  |
-                       '=========+========='
-                                 |
-                       .=========+=========.
-                       |    CORE SWITCH     |
-                       |  o  o  o  o  o  o  |
-                       '==+====+====+====+=='
-                          |    |    |    |
-                       [ PC ] [ PC ] [ AP ] [ LAB ]
-```
-
-<sub>Belajar memahami bagaimana perangkat terhubung, bertukar data, dan berkomunikasi dalam sebuah jaringan.</sub>
+<img src="https://img.shields.io/badge/QUEST_01-IPv4_%26_Subnetting-171717?style=for-the-badge&labelColor=3B3020&color=C9A96E" alt="Quest 1: IPv4 and Subnetting" />
+<img src="https://img.shields.io/badge/QUEST_02-MikroTik_RouterOS-171717?style=for-the-badge&labelColor=3B3020&color=C9A96E" alt="Quest 2: MikroTik RouterOS" />
+<img src="https://img.shields.io/badge/QUEST_03-Cisco_Packet_Tracer-171717?style=for-the-badge&labelColor=3B3020&color=C9A96E" alt="Quest 3: Cisco Packet Tracer" />
 
 </div>
 
-## Currently Learning
+- [ ] Memperkuat pemahaman subnetting dan TCP/IP.
+- [ ] Berlatih konfigurasi dasar MikroTik RouterOS.
+- [ ] Membangun topologi kecil dan menguji routing di Cisco Packet Tracer.
+- [ ] Mencatat hasil lab, kendala, dan solusi dalam dokumentasi.
+
+> *Roadmap ini menunjukkan proses belajar yang sedang saya jalani, bukan klaim sertifikasi atau penguasaan tingkat ahli.*
+
+## 🗺️ Learning Roadmap
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-0496FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-<img src="https://img.shields.io/badge/MikroTik-RouterOS-1F4068?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik RouterOS" />
-<img src="https://img.shields.io/badge/VirtualBox-Virtual%20Lab-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C9A96E&text=FOUNDATIONS%20%E2%86%92%20MIKROTIK%20BASICS%20%E2%86%92%20CISCO%20ROUTING&fontSize=16&height=70&fontAlignY=55" alt="Roadmap: Foundations to MikroTik basics to Cisco routing" />
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Ⅰ · Foundations</strong><br/>
+      <sub>TCP/IP · IPv4 · Subnetting · DHCP</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Ⅱ · MikroTik</strong><br/>
+      <sub>RouterOS · Routing · Firewall basics</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Ⅲ · Cisco</strong><br/>
+      <sub>Switching · Routing · Troubleshooting</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-| Area                    | Topics                                                                |
-| ----------------------- | --------------------------------------------------------------------- |
-| Networking Fundamentals | TCP/IP, IPv4 addressing, subnetting, default gateway                  |
-| Network Services        | DHCP and basic network configuration                                  |
-| Routing & Switching     | Basic routing, switch concepts, network topology                      |
-| Troubleshooting         | `ping`, `traceroute`, and diagnosing connectivity issues              |
-| Virtual Labs            | Building and testing topologies in Cisco Packet Tracer and VirtualBox |
-
-## Learning Roadmap
+## 🛡️ Tools of the Trade
 
 <div align="center">
 
-```text
-FUNDAMENTALS  ──────▶  MIKROTIK BASICS  ──────▶  CISCO ROUTING & SWITCHING
-     │                       │                              │
- Addressing, TCP/IP       RouterOS lab                More advanced labs
- Subnetting, DHCP         Routing & firewall          Troubleshooting
-```
+<img src="https://img.shields.io/badge/Cisco-Packet_Tracer-111111?style=flat-square&logo=cisco&logoColor=C9A96E" alt="Cisco Packet Tracer" />
+<img src="https://img.shields.io/badge/MikroTik-RouterOS-111111?style=flat-square&logo=mikrotik&logoColor=C9A96E" alt="MikroTik RouterOS" />
+<img src="https://img.shields.io/badge/VirtualBox-Virtual_Labs-111111?style=flat-square&logo=virtualbox&logoColor=C9A96E" alt="VirtualBox" />
+<img src="https://img.shields.io/badge/Git-GitHub-111111?style=flat-square&logo=github&logoColor=C9A96E" alt="Git and GitHub" />
 
 </div>
 
-_Roadmap ini adalah proses belajar yang sedang saya jalani, bukan daftar sertifikasi atau keahlian yang sudah saya klaim._
-
-## Connect
+## 🕯️ Find Me Beyond the Keep
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/drbham">
-  <img src="https://img.shields.io/badge/LinkedIn-DrBham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — DrBham" />
+  <img src="https://img.shields.io/badge/LinkedIn-DrBham-C9A96E?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn profile — DrBham" />
 </a>
 
-<br />
+<br/><br/>
 
-<sub>Always learning. Always labbing. One network at a time.</sub>
+<sub><i>Stay curious. Keep labbing. Build the network, one connection at a time.</i></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,50:123B63,100:0B1220&height=90&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0D10,50:59452B,100:080A0D&height=100&section=footer" alt="" />
 
 </div>
