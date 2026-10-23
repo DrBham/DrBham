@@ -45,80 +45,41 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 
 ### 🏅 II. The Earned Insignia
 
-<div align="center">
+<table width="100%">
+<tr>
+<td colspan="2" valign="middle">
 
-**MTCNA — MikroTik Certified Network Associate**
+**🏅 MikroTik Certified Network Associate**  
+MTCNA · MikroTik  
+<img src="https://img.shields.io/badge/STATUS-CERTIFIED-17472D?style=flat-square&labelColor=302619&color=2F8852" alt="MTCNA Certified" />
 
-<img src="https://img.shields.io/badge/MTCNA-CERTIFIED-B99A62?style=for-the-badge&labelColor=302619" alt="MTCNA Certified" />
-
-*One milestone earned, many lessons still ahead.*
-
-| Credential | Details |
-|:--|:--|
-| **Issuer** | MikroTik |
-| **Issued** | July 2026 |
-| **Valid until** | July 2029 |
-| **Credential ID** | `2607NA1874` |
-
-<sub>Certificate verification link can be added when available.</sub>
-
-</div>
-
-### 🏰 III. The Training Grounds
-
-<table>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
-**⚔️ The Cisco Citadel**
-
-*Learning the ways of switches and routers.*
-
-- Cisco Packet Tracer
-- Dasar routing dan switching
-- IPv4 addressing dan subnetting
-- Konfigurasi dan pengujian koneksi sederhana
+**Issued**  
+July 2026
 
 </td>
 <td width="50%" valign="top">
 
-**🧙 The MikroTik Tower**
+**Expires**  
+July 2029
 
-*Discovering the secrets of RouterOS.*
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-- MikroTik RouterOS
-- IP address dan DHCP
-- Dasar konfigurasi router
-- Mengenal firewall dan routing dasar
+**Credential ID**  
+`2607NA1874`
 
 </td>
 </tr>
 </table>
 
-### 📚 IV. The Lab Chronicles
-
-*An adventurer's journal, written one lab at a time.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📜 The Field Notes**
-
-Setiap kali menyelesaikan lab Cisco atau MikroTik, saya berencana mencatat tujuan, topologi yang dibuat, langkah konfigurasi, dan hasil pengujiannya.
-
-</td>
-<td width="50%" valign="top">
-
-**🏰 The Archives on GitHub**
-
-Dokumentasi lab akan saya unggah sebagai repository atau bagian-bagian latihan di GitHub. Ini adalah arsip perkembangan belajar dan portofolio praktik saya, bukan klaim sudah ahli.
-
-</td>
-</tr>
-</table>
-
-### 🧰 V. The Apprentice's Inventory
+### 🧰 III. The Apprentice's Inventory
 
 <div align="center">
 <table>
@@ -145,7 +106,7 @@ Dokumentasi lab akan saya unggah sebagai repository atau bagian-bagian latihan d
 
 > **📚 The Lab Archives:** Setiap lab yang selesai saya kerjakan akan saya dokumentasikan dan unggah ke GitHub secara bertahap—mulai dari konfigurasi, langkah percobaan, hasil pengujian, sampai hal-hal yang saya pelajari. Arsip ini adalah catatan latihan sekaligus portofolio perjalanan belajar saya.
 
-### 🕯️ VI. Messages Beyond the Kingdom
+### 🕯️ IV. Messages Beyond the Kingdom
 
 <div align="center">
 
