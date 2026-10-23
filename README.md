@@ -45,36 +45,38 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 
 ### 🏅 II. The Earned Insignia
 
-<!-- Artwork floats to the far right; no headings or horizontal rules inside this section. -->
-<img align="right" src="assets/freedom-speech.jpg" width="295" alt="Freedom Speech — classic painting" />
+<table width="100%">
+<tr><td colspan="2">
 
-<div align="left">
-
-<big><strong>🏅 MikroTik Certified Network Associate</strong></big>
-
-<br/>
-
-<strong>MTCNA · MikroTik</strong>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-CERTIFIED-17472D?style=for-the-badge&labelColor=302619&color=2F8852" alt="MTCNA Certified" />
-
-<br/><br/>
-
-<strong>Issued:</strong> July 2026  
-<strong>Expires:</strong> July 2029  
-<strong>Credential ID:</strong> <code>2607NA1874</code>
+**🏅 MikroTik Certified Network Associate**  
+<sub>MTCNA · MikroTik</sub>
 
 <br/>
 
-*One milestone earned, many lessons still ahead.*
+<img src="https://img.shields.io/badge/Certified-198754?style=flat-square&labelColor=198754&color=198754" alt="Certified" />
 
-</div>
+</td></tr>
+<tr>
+<td width="50%" valign="top">
 
-<br clear="all" />
+**Issued**  
+**July 2026**
 
----
+</td>
+<td width="50%" valign="top">
+
+**Expires**  
+**July 2029**
+
+</td>
+</tr>
+<tr><td colspan="2">
+
+**Credential ID**  
+`2607NA1874`
+
+</td></tr>
+</table>
 
 ### 🧰 III. The Apprentice's Inventory
 
@@ -94,7 +96,7 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 <br/><strong>VirtualBox</strong>
 </td>
 <td align="center" width="20%">
-<img src="assets/gns3-icon.png" width="58" height="58" alt="GNS3 logo" />
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/GNS3_logo.png" width="58" height="58" alt="GNS3 logo" />
 <br/><strong>GNS3</strong>
 </td>
 <td align="center" width="20%">
