@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100F12,50:35291D,100:100F12&height=190&section=header&text=DIMAS%20REGINALD%20BHAMAKERTI&fontSize=34&fontColor=E9D5A5&fontAlignY=38&desc=THE%20NETWORK%20APPRENTICE%20%E2%80%A2%20A%20BEGINNER%27S%20ADVENTURE&descAlignY=67&descSize=16&descColor=D4B981" alt="Dimas Reginald Bhamakerti — The Network Apprentice, medieval fantasy landscape banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100F12,50:35291D,100:100F12&height=190&section=header&text=Dimas%20Reginald%20Bhamakerti&fontSize=34&fontColor=E9D5A5&fontAlignY=38&desc=THE%20NETWORK%20APPRENTICE%20%E2%80%A2%20A%20BEGINNER%27S%20ADVENTURE&descAlignY=67&descSize=16&descColor=D4B981" alt="Dimas Reginald Bhamakerti — The Network Apprentice, medieval fantasy landscape banner" />
 
 **⚔️ THE NETWORK APPRENTICE ⚔️**
 
@@ -22,7 +22,7 @@
 
 **Greetings, traveler!** 👋
 
-Saya **Dimas Reginald Bhamakerti**, seorang mahasiswa dan petualang pemula di dunia **Computer Networking**. Saat ini saya sedang menjelajahi dasar-dasar jaringan komputer, terutama **Cisco** dan **MikroTik**.
+Saya **Dimas**, seorang petualang pemula di dunia **Computer Networking**. Saat ini saya sedang menjelajahi dasar-dasar jaringan komputer, terutama **Cisco** dan **MikroTik**.
 
 Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah memperoleh sertifikasi **MTCNA (MikroTik Certified Network Associate)**, tetapi perjalanan belajar saya masih panjang: mencoba, salah konfigurasi, mencari penyebabnya, lalu mencoba lagi.
 
