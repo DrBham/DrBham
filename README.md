@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100F12,50:35291D,100:100F12&height=190&section=header&text=DIMAS%20REGINALD%20BHAMAKERTI&fontSize=34&fontColor=E9D5A5&fontAlignY=38&desc=THE%20NETWORK%20APPRENTICE%20%E2%80%A2%20A%20BEGINNER%27S%20ADVENTURE&descAlignY=67&descSize=16&descColor=D4B981" alt="Dimas Reginald Bhamakerti — The Network Apprentice, medieval fantasy landscape banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100F12,50:35291D,100:100F12&height=190&section=header&text=Dimas%20Reginald%20Bhamakerti&fontSize=34&fontColor=E9D5A5&fontAlignY=38&desc=THE%20NETWORK%20APPRENTICE%20%E2%80%A2%20A%20BEGINNER%27S%20ADVENTURE&descAlignY=67&descSize=16&descColor=D4B981" alt="Dimas Reginald Bhamakerti — The Network Apprentice, medieval fantasy landscape banner" />
 
 **⚔️ THE NETWORK APPRENTICE ⚔️**
 
@@ -46,36 +46,26 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 ### 🏅 II. The Earned Insignia
 
 <table width="100%">
-<tr><td colspan="2">
+<tr>
+<td width="63%" valign="middle">
 
-**🏅 MikroTik Certified Network Associate**  
+<strong>🏅 MikroTik Certified Network Associate</strong>
+
 <sub>MTCNA · MikroTik</sub>
 
-<br/>
+<p><img src="https://img.shields.io/badge/Certified-198754?style=flat-square&labelColor=198754&color=198754" alt="Certified" /></p>
 
-<img src="https://img.shields.io/badge/Certified-198754?style=flat-square&labelColor=198754&color=198754" alt="Certified" />
+<strong>Issued:</strong> July 2026 &nbsp;&nbsp; <strong>Expires:</strong> July 2029
 
-</td></tr>
-<tr>
-<td width="50%" valign="top">
+<p><strong>Credential ID:</strong> <code>2607NA1874</code></p>
 
-**Issued**  
-**July 2026**
+<em>One milestone earned, many lessons still ahead.</em>
 
 </td>
-<td width="50%" valign="top">
-
-**Expires**  
-**July 2029**
-
+<td width="37%" align="right" valign="middle">
+<img src="assets/freedom-speech.jpg" width="285" alt="Freedom of Speech, a painting by Norman Rockwell" />
 </td>
 </tr>
-<tr><td colspan="2">
-
-**Credential ID**  
-`2607NA1874`
-
-</td></tr>
 </table>
 
 ### 🧰 III. The Apprentice's Inventory
@@ -84,23 +74,23 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://cdn.simpleicons.org/cisco/D7BC85" width="58" height="58" alt="Cisco logo" />
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="58" height="58" alt="Cisco logo" />
 <br/><strong>Cisco Packet Tracer</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn.simpleicons.org/mikrotik/D7BC85" width="58" height="58" alt="MikroTik logo" />
+<img src="https://cdn.simpleicons.org/mikrotik/FFFFFF" width="58" height="58" alt="MikroTik logo" />
 <br/><strong>MikroTik RouterOS</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn.simpleicons.org/virtualbox/D7BC85" width="58" height="58" alt="VirtualBox logo" />
+<img src="https://cdn.simpleicons.org/virtualbox/2F61B4" width="58" height="58" alt="VirtualBox logo" />
 <br/><strong>VirtualBox</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/GNS3_logo.png" width="58" height="58" alt="GNS3 logo" />
+<img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3_logo.png" width="58" height="58" alt="GNS3 logo" />
 <br/><strong>GNS3</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn.simpleicons.org/github/D7BC85" width="58" height="58" alt="GitHub logo" />
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="58" height="58" alt="GitHub logo" />
 <br/><strong>GitHub</strong>
 </td>
 </tr>
