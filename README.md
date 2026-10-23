@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100F12,50:35291D,100:100F12&height=190&section=header&text=DR%20BHAM&fontSize=54&fontColor=E9D5A5&fontAlignY=38&desc=THE%20NETWORK%20APPRENTICE%20%E2%80%A2%20A%20BEGINNER%27S%20ADVENTURE&descAlignY=67&descSize=16&descColor=D4B981" alt="DrBham — The Network Apprentice, medieval fantasy landscape banner" />
 
-**⚔️ THE NETWORK APPRENTICE ⚔️**
+**⚔️ THE NETWORK APPRENTICE ⚔️**  <img src="assets/indonesia-flag.gif" width="38" alt="Animated Indonesian flag" />
 
 *“Every great adventurer begins at level one.”*
 
@@ -47,34 +47,21 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 
 <table width="100%">
 <tr>
-<td colspan="2" valign="middle">
+<td width="55%" valign="middle">
 
 **🏅 MikroTik Certified Network Associate**  
 MTCNA · MikroTik  
 <img src="https://img.shields.io/badge/STATUS-CERTIFIED-17472D?style=flat-square&labelColor=302619&color=2F8852" alt="MTCNA Certified" />
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Issued:** July 2026  
+**Expires:** July 2029  
+**Credential ID:** `2607NA1874`
 
-**Issued**  
-July 2026
+*One milestone earned, many lessons still ahead.*
 
 </td>
-<td width="50%" valign="top">
-
-**Expires**  
-July 2029
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**Credential ID**  
-`2607NA1874`
-
+<td width="45%" align="center" valign="middle">
+<img src="assets/freedom-speech.jpg" width="320" alt="Freedom Speech — classic painting used as a decorative illustration" />
 </td>
 </tr>
 </table>
