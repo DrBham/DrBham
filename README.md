@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100F12,50:35291D,100:100F12&height=190&section=header&text=Dimas%20Reginald%20Bhamakerti&fontSize=34&fontColor=E9D5A5&fontAlignY=38&desc=THE%20NETWORK%20APPRENTICE%20%E2%80%A2%20A%20BEGINNER%27S%20ADVENTURE&descAlignY=67&descSize=16&descColor=D4B981" alt="Dimas Reginald Bhamakerti — The Network Apprentice, medieval fantasy landscape banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100F12,50:35291D,100:100F12&height=190&section=header&text=DIMAS%20REGINALD%20BHAMAKERTI&fontSize=34&fontColor=E9D5A5&fontAlignY=38&desc=THE%20NETWORK%20APPRENTICE%20%E2%80%A2%20A%20BEGINNER%27S%20ADVENTURE&descAlignY=67&descSize=16&descColor=D4B981" alt="Dimas Reginald Bhamakerti — The Network Apprentice, medieval fantasy landscape banner" />
 
 **⚔️ THE NETWORK APPRENTICE ⚔️**
 
@@ -47,23 +47,29 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 
 <table width="100%">
 <tr>
-<td width="63%" valign="middle">
+<td width="65%" valign="middle">
 
-<strong>🏅 MikroTik Certified Network Associate</strong>
+<sub>✦ ACHIEVEMENT UNLOCKED · NETWORKING ✦</sub>
 
-<sub>MTCNA · MikroTik</sub>
+<h2>🏅 MikroTik Certified<br/>Network Associate</h2>
 
-<p><img src="https://img.shields.io/badge/Certified-198754?style=flat-square&labelColor=198754&color=198754" alt="Certified" /></p>
+<strong>MTCNA</strong> &nbsp;·&nbsp; MikroTik
 
-<strong>Issued:</strong> July 2026 &nbsp;&nbsp; <strong>Expires:</strong> July 2029
+<p>
+<img src="https://img.shields.io/badge/STATUS-CERTIFIED-21865B?style=for-the-badge&labelColor=33281D&color=21865B" height="27" alt="MTCNA certification status: Certified" />
+</p>
 
-<p><strong>Credential ID:</strong> <code>2607NA1874</code></p>
+<p>
+<strong>📜 Issued</strong> &nbsp; July 2026<br/>
+<strong>⌛ Expires</strong> &nbsp; July 2029<br/>
+<strong>🔑 Credential ID</strong> &nbsp; <code>2607NA1874</code>
+</p>
 
-<em>One milestone earned, many lessons still ahead.</em>
+<em>“One milestone earned, many lessons still ahead.”</em>
 
 </td>
-<td width="37%" align="right" valign="middle">
-<img src="assets/freedom-speech.jpg" width="285" alt="Freedom of Speech, a painting by Norman Rockwell" />
+<td width="35%" align="right" valign="middle">
+<img src="assets/freedom-speech.jpg" width="290" alt="Freedom of Speech painting by Norman Rockwell" />
 </td>
 </tr>
 </table>
