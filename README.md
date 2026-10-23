@@ -24,7 +24,7 @@
 
 Saya **DrBham**, seorang mahasiswa dan petualang pemula di dunia **Computer Networking**. Saat ini saya sedang menjelajahi dasar-dasar jaringan komputer, terutama **Cisco** dan **MikroTik**.
 
-Saya belum menjadi ahli atau *network engineer* profesional. Profil ini adalah catatan perjalanan belajar: mencoba, salah konfigurasi, mencari penyebabnya, lalu mencoba lagi.
+Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah memperoleh sertifikasi **MTCNA (MikroTik Certified Network Associate)**, tetapi perjalanan belajar saya masih panjang: mencoba, salah konfigurasi, mencari penyebabnya, lalu mencoba lagi.
 
 </td>
 <td width="42%" valign="top">
@@ -34,7 +34,8 @@ Saya belum menjadi ahli atau *network engineer* profesional. Profil ini adalah c
 | Scroll | Entry |
 |:--|:--|
 | **Class** | Networking Apprentice |
-| **Rank** | Beginner |
+| **Rank** | Networking Learner |
+| **Credential** | MTCNA Certified |
 | **Interest** | Routing & Switching |
 | **Mission** | Learn • Lab • Repeat |
 
@@ -73,43 +74,44 @@ Saya belum menjadi ahli atau *network engineer* profesional. Profil ini adalah c
 </tr>
 </table>
 
-### 🗡️ III. The Quest Board
+### 📚 III. The Lab Chronicles
+
+*An adventurer's journal, written one lab at a time.*
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**📖 Quest I — Foundations**
+**📜 The Field Notes**
 
-- [ ] Memahami TCP/IP
-- [ ] Latihan subnetting
-- [ ] Memahami gateway dan DNS
+Setiap kali menyelesaikan lab Cisco atau MikroTik, saya berencana mencatat tujuan, topologi yang dibuat, langkah konfigurasi, dan hasil pengujiannya.
 
 </td>
-<td width="34%" valign="top">
+<td width="50%" valign="top">
 
-**🛡️ Quest II — Cisco**
+**🏰 The Archives on GitHub**
 
-- [ ] Membuat lab kecil di Packet Tracer
-- [ ] Berlatih konfigurasi switch/router
-- [ ] Menguji konektivitas dengan `ping`
-
-</td>
-<td width="33%" valign="top">
-
-**🔮 Quest III — MikroTik**
-
-- [ ] Mengenal antarmuka RouterOS
-- [ ] Mencoba DHCP dan routing dasar
-- [ ] Mendokumentasikan hasil lab
+Dokumentasi lab akan saya unggah sebagai repository atau bagian-bagian latihan di GitHub. Ini adalah arsip perkembangan belajar dan portofolio praktik saya, bukan klaim sudah ahli.
 
 </td>
 </tr>
 </table>
 
-<sub>Quest board ini adalah daftar hal yang ingin saya pelajari, bukan daftar sertifikasi atau keahlian yang sudah saya kuasai.</sub>
+### 🏅 IV. The Earned Insignia
 
-### 🧰 IV. The Apprentice's Inventory
+<div align="center">
+
+**MTCNA — MikroTik Certified Network Associate**
+
+<img src="https://img.shields.io/badge/MikroTik-MTCNA%20Certified-B99A62?style=for-the-badge&labelColor=302619&logoColor=E9D5A5" alt="MTCNA — MikroTik Certified Network Associate" />
+
+*One milestone earned, many lessons still ahead.*
+
+<sub>Sertifikasi yang telah diperoleh. Bukti sertifikat atau tautan verifikasi dapat ditambahkan di sini nanti.</sub>
+
+</div>
+
+### 🧰 V. The Apprentice's Inventory
 
 <div align="center">
 <table>
@@ -136,13 +138,13 @@ Saya belum menjadi ahli atau *network engineer* profesional. Profil ini adalah c
 
 > **📚 The Lab Archives:** Setiap lab yang selesai saya kerjakan akan saya dokumentasikan dan unggah ke GitHub secara bertahap—mulai dari konfigurasi, langkah percobaan, hasil pengujian, sampai hal-hal yang saya pelajari. Arsip ini adalah catatan latihan sekaligus portofolio perjalanan belajar saya.
 
-### 🕯️ V. Messages Beyond the Kingdom
+### 🕯️ VI. Messages Beyond the Kingdom
 
 <div align="center">
 
 *Have a tip, a learning resource, or a quest for a fellow beginner?*
 
-<a href="https://www.linkedin.com/in/drbham"><img src="https://cdn.simpleicons.org/linkedin/D7BC85" width="42" height="42" alt="LinkedIn — DrBham" /></a>
+<a href="https://www.linkedin.com/in/drbham"><img src="https://img.shields.io/badge/-LinkedIn-302619?style=for-the-badge&logo=linkedin&logoColor=E9D5A5&labelColor=302619" height="40" alt="LinkedIn — DrBham" /></a>
 
 <br/>
 
