@@ -112,13 +112,29 @@ Saya belum menjadi ahli atau *network engineer* profesional. Profil ini adalah c
 ### 🧰 IV. The Apprentice's Inventory
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-171411?style=for-the-badge&logo=cisco&logoColor=D7BC85&labelColor=443420" alt="Cisco Packet Tracer" />
-<img src="https://img.shields.io/badge/MikroTik-RouterOS-171411?style=for-the-badge&labelColor=443420" alt="MikroTik RouterOS" />
-<img src="https://img.shields.io/badge/VirtualBox-Labs-171411?style=for-the-badge&logo=virtualbox&logoColor=D7BC85&labelColor=443420" alt="VirtualBox Labs" />
-<img src="https://img.shields.io/badge/GitHub-Learning%20Journal-171411?style=for-the-badge&logo=github&logoColor=D7BC85&labelColor=443420" alt="GitHub Learning Journal" />
-
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/cisco/D7BC85" width="58" height="58" alt="Cisco logo" />
+<br/><strong>Cisco Packet Tracer</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/mikrotik/D7BC85" width="58" height="58" alt="MikroTik logo" />
+<br/><strong>MikroTik RouterOS</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/virtualbox/D7BC85" width="58" height="58" alt="VirtualBox logo" />
+<br/><strong>VirtualBox</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.simpleicons.org/github/D7BC85" width="58" height="58" alt="GitHub logo" />
+<br/><strong>GitHub · Lab Archives</strong>
+</td>
+</tr>
+</table>
 </div>
+
+> **📚 The Lab Archives:** Setiap lab yang selesai saya kerjakan akan saya dokumentasikan dan unggah ke GitHub secara bertahap—mulai dari konfigurasi, langkah percobaan, hasil pengujian, sampai hal-hal yang saya pelajari. Arsip ini adalah catatan latihan sekaligus portofolio perjalanan belajar saya.
 
 ### 🕯️ V. Messages Beyond the Kingdom
 
@@ -126,7 +142,7 @@ Saya belum menjadi ahli atau *network engineer* profesional. Profil ini adalah c
 
 *Have a tip, a learning resource, or a quest for a fellow beginner?*
 
-<a href="https://www.linkedin.com/in/drbham"><img src="https://img.shields.io/badge/LinkedIn-Meet%20the%20Apprentice-171411?style=for-the-badge&logo=linkedin&logoColor=D7BC85&labelColor=443420" alt="Find DrBham on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/drbham"><img src="https://cdn.simpleicons.org/linkedin/D7BC85" width="42" height="42" alt="LinkedIn — DrBham" /></a>
 
 <br/>
 
