@@ -45,20 +45,28 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 
 ### 🏅 II. The Earned Insignia
 
-<!-- The certificate heading is placed BEFORE the floated artwork so GitHub's heading underline never crosses the image. -->
+<!-- Artwork floats to the far right; no headings or horizontal rules inside this section. -->
 <img align="right" src="assets/freedom-speech.jpg" width="295" alt="Freedom Speech — classic painting" />
 
 <div align="left">
 
-<h3>🏅 MikroTik Certified Network Associate</h3>
+<big><strong>🏅 MikroTik Certified Network Associate</strong></big>
 
-<h3>MTCNA · MikroTik</h3>
+<br/>
+
+<strong>MTCNA · MikroTik</strong>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-CERTIFIED-17472D?style=for-the-badge&labelColor=302619&color=2F8852" alt="MTCNA Certified" />
 
-<h3>Issued: July 2026</h3>
-<h3>Expires: July 2029</h3>
-<h3>Credential ID: <code>2607NA1874</code></h3>
+<br/><br/>
+
+<strong>Issued:</strong> July 2026  
+<strong>Expires:</strong> July 2029  
+<strong>Credential ID:</strong> <code>2607NA1874</code>
+
+<br/>
 
 *One milestone earned, many lessons still ahead.*
 
@@ -86,18 +94,17 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 <br/><strong>VirtualBox</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn.simpleicons.org/gns3/D7BC85" width="58" height="58" alt="GNS3 logo" />
+<img src="assets/gns3-icon.png" width="58" height="58" alt="GNS3 logo" />
 <br/><strong>GNS3</strong>
 </td>
 <td align="center" width="20%">
 <img src="https://cdn.simpleicons.org/github/D7BC85" width="58" height="58" alt="GitHub logo" />
-<br/><strong>GitHub · Lab Archives</strong>
+<br/><strong>GitHub</strong>
 </td>
 </tr>
 </table>
 </div>
 
-> **📚 The Lab Archives:** Setiap lab yang selesai saya kerjakan akan saya dokumentasikan dan unggah ke GitHub secara bertahap—mulai dari konfigurasi, langkah percobaan, hasil pengujian, sampai hal-hal yang saya pelajari. Arsip ini adalah catatan latihan sekaligus portofolio perjalanan belajar saya.
 
 ### 🕯️ IV. Messages Beyond the Kingdom
 
