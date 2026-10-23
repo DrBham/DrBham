@@ -43,7 +43,28 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 </tr>
 </table>
 
-### 🏰 II. The Training Grounds
+### 🏅 II. The Earned Insignia
+
+<div align="center">
+
+**MTCNA — MikroTik Certified Network Associate**
+
+<img src="https://img.shields.io/badge/MTCNA-CERTIFIED-B99A62?style=for-the-badge&labelColor=302619" alt="MTCNA Certified" />
+
+*One milestone earned, many lessons still ahead.*
+
+| Credential | Details |
+|:--|:--|
+| **Issuer** | MikroTik |
+| **Issued** | July 2026 |
+| **Valid until** | July 2029 |
+| **Credential ID** | `2607NA1874` |
+
+<sub>Certificate verification link can be added when available.</sub>
+
+</div>
+
+### 🏰 III. The Training Grounds
 
 <table>
 <tr>
@@ -74,7 +95,7 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 </tr>
 </table>
 
-### 📚 III. The Lab Chronicles
+### 📚 IV. The Lab Chronicles
 
 *An adventurer's journal, written one lab at a time.*
 
@@ -96,20 +117,6 @@ Dokumentasi lab akan saya unggah sebagai repository atau bagian-bagian latihan d
 </td>
 </tr>
 </table>
-
-### 🏅 IV. The Earned Insignia
-
-<div align="center">
-
-**MTCNA — MikroTik Certified Network Associate**
-
-<img src="https://img.shields.io/badge/MikroTik-MTCNA%20Certified-B99A62?style=for-the-badge&labelColor=302619&logoColor=E9D5A5" alt="MTCNA — MikroTik Certified Network Associate" />
-
-*One milestone earned, many lessons still ahead.*
-
-<sub>Sertifikasi yang telah diperoleh. Bukti sertifikat atau tautan verifikasi dapat ditambahkan di sini nanti.</sub>
-
-</div>
 
 ### 🧰 V. The Apprentice's Inventory
 
