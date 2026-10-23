@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100F12,50:35291D,100:100F12&height=190&section=header&text=DR%20BHAM&fontSize=54&fontColor=E9D5A5&fontAlignY=38&desc=THE%20NETWORK%20APPRENTICE%20%E2%80%A2%20A%20BEGINNER%27S%20ADVENTURE&descAlignY=67&descSize=16&descColor=D4B981" alt="DrBham — The Network Apprentice, medieval fantasy landscape banner" />
 
-**⚔️ THE NETWORK APPRENTICE ⚔️**  <img src="assets/indonesia-flag.gif" width="38" alt="Animated Indonesian flag" />
+**⚔️ THE NETWORK APPRENTICE ⚔️**
 
 *“Every great adventurer begins at level one.”*
 
@@ -45,13 +45,15 @@ Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah 
 
 ### 🏅 II. The Earned Insignia
 
-<table width="100%">
-<tr>
-<td width="55%" valign="middle">
+<img align="right" src="assets/freedom-speech.jpg" width="285" alt="Freedom Speech — classic painting" />
 
-**🏅 MikroTik Certified Network Associate**  
-MTCNA · MikroTik  
-<img src="https://img.shields.io/badge/STATUS-CERTIFIED-17472D?style=flat-square&labelColor=302619&color=2F8852" alt="MTCNA Certified" />
+## 🏅 MikroTik Certified Network Associate
+
+### MTCNA · MikroTik
+
+<img src="https://img.shields.io/badge/STATUS-CERTIFIED-17472D?style=for-the-badge&labelColor=302619&color=2F8852" alt="MTCNA Certified" />
+
+<br/>
 
 **Issued:** July 2026  
 **Expires:** July 2029  
@@ -59,12 +61,9 @@ MTCNA · MikroTik
 
 *One milestone earned, many lessons still ahead.*
 
-</td>
-<td width="45%" align="center" valign="middle">
-<img src="assets/freedom-speech.jpg" width="320" alt="Freedom Speech — classic painting used as a decorative illustration" />
-</td>
-</tr>
-</table>
+<br clear="all" />
+
+---
 
 ### 🧰 III. The Apprentice's Inventory
 
