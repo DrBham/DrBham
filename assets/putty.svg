@@ -1,8 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 100 100">
-<g stroke="#161616" stroke-width="1.7" stroke-linejoin="round">
-<path d="M52 5h28l-8 8H44z" fill="#bcbcbc"/><path d="M44 13h28v32H44z" fill="#efefef"/><path d="M48 17h20v23H48z" fill="#1010ed"/><path d="M72 13l8-8v31l-8 9z" fill="#808080"/>
-<path d="M40 45h35l8-9 6 5-8 12H35z" fill="#d0d0d0"/><path d="M35 53h46v7H35z" fill="#a0a0a0"/>
-<path d="M7 53h30l-7 8H2z" fill="#bcbcbc"/><path d="M2 61h28v29H2z" fill="#eeeeee"/><path d="M6 65h20v20H6z" fill="#1010ed"/><path d="M30 61l7-8v29l-7 8z" fill="#858585"/>
-<path d="M1 90h35l8-8 5 5-8 10H1z" fill="#cecece"/><path d="M1 97h40v2H1z" fill="#888"/>
-<path d="M61 28 35 56h18L15 88l18-26H20z" fill="#fff000" stroke="#000" stroke-width="3.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="144" height="144">
+<!-- Classic PuTTY: two grey desktop computers, blue screens and yellow lightning -->
+<g stroke="#141414" stroke-width="1.6" stroke-linejoin="round">
+<!-- rear monitor body -->
+<path d="M64 8H109L96 21H51Z" fill="#bcbcbc"/>
+<path d="M51 21H96V63H51Z" fill="#f0f0f0"/>
+<path d="M96 21L109 8V49L96 63Z" fill="#858585"/>
+<path d="M57 27H90V55H57Z" fill="blue" stroke="none"/>
+<path d="M51 21H96V63H51Z" fill="none" stroke="#141414"/>
+<!-- rear computer base -->
+<path d="M46 63H97L110 50L119 59L104 76H38Z" fill="#c8c8c8"/>
+<path d="M38 76H104L119 59V73L104 87H38Z" fill="#ededed"/>
+<path d="M104 76L119 59V73L104 87Z" fill="#898989"/>
+<path d="M84 80H103V84H84Z" fill="#141414" stroke="none"/>
+<!-- front monitor -->
+<path d="M14 66H61L49 78H2Z" fill="#bcbcbc"/>
+<path d="M2 78H49V110H2Z" fill="#efefef"/>
+<path d="M49 78L61 66V98L49 110Z" fill="#858585"/>
+<path d="M8 84H43V103H8Z" fill="blue" stroke="none"/>
+<!-- front computer base -->
+<path d="M2 110H49L61 98L69 105L57 117H2Z" fill="#d0d0d0"/>
+<path d="M2 117H57L69 105V114L62 120H2Z" fill="#eeeeee"/>
+<path d="M57 117L69 105V114L62 120Z" fill="#8a8a8a"/>
+<path d="M39 116H54V119H39Z" fill="#111" stroke="none"/>
+<!-- yellow lightning crossing from upper monitor to lower -->
+<path d="M77 43L35 83H56L22 108L43 88H26Z" fill="#ffff00" stroke="#000" stroke-width="3.3" stroke-linejoin="round"/>
 </g></svg>
