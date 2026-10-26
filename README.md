@@ -1,121 +1,71 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100F12,50:35291D,100:100F12&height=190&section=header&text=Dimas%20Reginald%20Bhamakerti&fontSize=34&fontColor=E9D5A5&fontAlignY=38&desc=THE%20NETWORK%20APPRENTICE%20%E2%80%A2%20A%20BEGINNER%27S%20ADVENTURE&descAlignY=67&descSize=16&descColor=D4B981" alt="Dimas Reginald Bhamakerti — The Network Apprentice, medieval fantasy landscape banner" />
+# ⚔️ Dimas Reginald Bhamakerti
 
-**⚔️ THE NETWORK APPRENTICE ⚔️**
+**THE NETWORK APPRENTICE** · *Learning one lab at a time*
 
-*“Every great adventurer begins at level one.”*
+<img src="https://img.shields.io/badge/MTCNA-CERTIFIED-228B65?style=for-the-badge&labelColor=302619" alt="MTCNA Certified" />
+<img src="https://img.shields.io/badge/FOCUS-CISCO%20%26%20MIKROTIK-B99A62?style=for-the-badge&labelColor=302619" alt="Cisco and MikroTik" />
+<img src="https://img.shields.io/badge/JOURNEY-NETWORKING%20LEARNER-B99A62?style=for-the-badge&labelColor=302619" alt="Networking Learner" />
 
-<img src="https://img.shields.io/badge/CLASS-Network%20Apprentice-302619?style=flat-square&labelColor=171411&color=B99A62" alt="Class: Network Apprentice" />
-<img src="https://img.shields.io/badge/LEVEL-Beginner-302619?style=flat-square&labelColor=171411&color=B99A62" alt="Level: Beginner" />
-<img src="https://img.shields.io/badge/CURRENT%20QUEST-Cisco%20%26%20MikroTik-302619?style=flat-square&labelColor=171411&color=B99A62" alt="Current quest: Cisco and MikroTik" />
+*✦ Explore networks · Build labs · Document the journey ✦*
 
 </div>
 
 ---
 
-### 📜 I. The Adventurer's Chronicle
+### 📜 About the Apprentice
 
-<table>
-<tr>
-<td width="58%" valign="top">
+Saya **Dimas Reginald Bhamakerti**, mahasiswa yang sedang mendalami **Computer Networking**, terutama **Cisco** dan **MikroTik**. Saya belajar melalui simulasi, konfigurasi, troubleshooting, dan dokumentasi lab yang secara bertahap akan saya unggah ke GitHub.
 
-**Greetings, traveler!** 👋
-
-Saya **Dimas**, seorang petualang pemula di dunia **Computer Networking**. Saat ini saya sedang menjelajahi dasar-dasar jaringan komputer, terutama **Cisco** dan **MikroTik**.
-
-Saya masih belajar dan belum menjadi *network engineer* profesional. Saya sudah memperoleh sertifikasi **MTCNA (MikroTik Certified Network Associate)**, tetapi perjalanan belajar saya masih panjang: mencoba, salah konfigurasi, mencari penyebabnya, lalu mencoba lagi.
-
-</td>
-<td width="42%" valign="top">
-
-**🛡️ Adventurer's Record**
-
-| Scroll | Entry |
-|:--|:--|
-| **Class** | Networking Apprentice |
-| **Rank** | Networking Learner |
-| **Credential** | MTCNA Certified |
-| **Interest** | Routing & Switching |
-| **Mission** | Learn • Lab • Repeat |
-
-</td>
-</tr>
-</table>
-
-### 🏅 II. The Earned Insignia
+### 🏅 Earned Insignia
 
 <table width="100%">
 <tr>
 <td width="65%" valign="middle">
 
-<sub>✦ ACHIEVEMENT UNLOCKED · NETWORKING ✦</sub>
+**MIKROTIK CERTIFIED NETWORK ASSOCIATE (MTCNA)**
 
-<h2>🏅 MikroTik Certified<br/>Network Associate</h2>
+<img src="https://img.shields.io/badge/STATUS-CERTIFIED-228B65?style=flat-square&labelColor=302619" alt="Certified" />
 
-<strong>MTCNA</strong> &nbsp;·&nbsp; MikroTik
+**Issued:** July 2026 &nbsp; · &nbsp; **Expires:** July 2029
 
-<p>
-<img src="https://img.shields.io/badge/STATUS-CERTIFIED-21865B?style=for-the-badge&labelColor=33281D&color=21865B" height="27" alt="MTCNA certification status: Certified" />
-</p>
+**Credential ID:** `2607NA1874`
 
-<p>
-<strong>📜 Issued</strong> &nbsp; July 2026<br/>
-<strong>⌛ Expires</strong> &nbsp; July 2029<br/>
-<strong>🔑 Credential ID</strong> &nbsp; <code>2607NA1874</code>
-</p>
-
-<em>“One milestone earned, many lessons still ahead.”</em>
+*One milestone earned, many lessons still ahead.*
 
 </td>
 <td width="35%" align="right" valign="middle">
-<img src="assets/freedom-speech.jpg" width="290" alt="Freedom of Speech painting by Norman Rockwell" />
+<img src="assets/freedom-speech.jpg" width="210" alt="Freedom of Speech by Norman Rockwell" />
 </td>
 </tr>
 </table>
 
-### 🧰 III. The Apprentice's Inventory
+### 🧰 Tools & Training Grounds
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="58" height="58" alt="Cisco logo" />
-<br/><strong>Cisco Packet Tracer</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.simpleicons.org/mikrotik/FFFFFF" width="58" height="58" alt="MikroTik logo" />
-<br/><strong>MikroTik RouterOS</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.simpleicons.org/virtualbox/2F61B4" width="58" height="58" alt="VirtualBox logo" />
-<br/><strong>VirtualBox</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3_logo.png" width="58" height="58" alt="GNS3 logo" />
-<br/><strong>GNS3</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="58" height="58" alt="GitHub logo" />
-<br/><strong>GitHub</strong>
-</td>
+<td align="center"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="46" alt="Cisco"/><br/><sub><b>Packet Tracer</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/mikrotik/FFFFFF" width="46" alt="MikroTik"/><br/><sub><b>RouterOS</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/virtualbox/2F61B4" width="46" alt="VirtualBox"/><br/><sub><b>VirtualBox</b></sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3_logo.png" width="46" alt="GNS3"/><br/><sub><b>GNS3</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="46" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
 </tr>
 </table>
 </div>
 
-
-### 🕯️ IV. Messages Beyond the Kingdom
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/drbham" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://discord.com/users/537212213203566592" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+</div>
 
 <div align="center">
 
-*Have a tip, a learning resource, or a quest for a fellow beginner?*
-
-<a href="https://www.linkedin.com/in/drbham"><img src="https://img.shields.io/badge/-LinkedIn-302619?style=for-the-badge&logo=linkedin&logoColor=E9D5A5&labelColor=302619" height="40" alt="LinkedIn — DrBham" /></a>
-
-<br/>
-
-**✦ Learn the basics. Explore the network. Enjoy the journey. ✦**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100F12,50:35291D,100:100F12&height=24&section=footer" alt="Medieval themed horizontal footer" />
+*⚔️ Every great adventurer begins at level one.*
 
 </div>
