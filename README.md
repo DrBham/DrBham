@@ -19,11 +19,11 @@
 ### ⚒️ My Networking Toolkit
 
 <p align="left">
-  <img src="assets/packet-tracer.png" alt="Cisco Packet Tracer" width="72" height="72" />
-  <img src="assets/winbox.png" alt="MikroTik WinBox" width="72" height="72" />
-  <img src="assets/virtualbox.png" alt="VirtualBox" width="72" height="72" />
-  <img src="assets/gns3.png" alt="GNS3" width="72" height="72" />
-  <img src="assets/putty.png" alt="PuTTY" width="72" height="72" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="52" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/mkfrey/com.mikrotik.WinBox/main/icons/winbox_256.png" width="52" alt="MikroTik WinBox" title="MikroTik WinBox" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/virtualbox/2F61B4" width="52" alt="VirtualBox" title="VirtualBox" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/gns3.png" width="52" alt="GNS3" title="GNS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/putty.png" width="52" alt="PuTTY" title="PuTTY" />
 </p>
 
 
