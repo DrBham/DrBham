@@ -19,10 +19,11 @@
 ### ⚒️ My Networking Toolkit
 
 <p align="left">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Hasyim50px-cisco-packet-tracer_Logo.png" width="48" height="48" alt="Cisco Packet Tracer" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="48" height="48" alt="Cisco Packet Tracer" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/mkfrey/com.mikrotik.WinBox/main/icons/winbox_256.png" width="48" height="48" alt="MikroTik WinBox" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/virtualbox/2F61B4" width="48" height="48" alt="VirtualBox" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3_logo.png" width="48" height="48" alt="GNS3" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/PuTTY_icon_128px.png" width="48" height="48" alt="PuTTY" />
 </p>
 
 
