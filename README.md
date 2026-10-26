@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:100F12,50:35291D,100:100F12&amp;height=105&amp;section=header" alt="Medieval dark gold header" />
+
 # ⚔️ Dimas Reginald Bhamakerti
 
 **THE NETWORK APPRENTICE** · *Learning one lab at a time*
@@ -55,17 +57,10 @@ Saya **Dimas Reginald Bhamakerti**, mahasiswa yang sedang mendalami **Computer N
 </table>
 </div>
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/drbham" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com/users/537212213203566592" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-</div>
-
 <div align="center">
 
 *⚔️ Every great adventurer begins at level one.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:100F12,50:35291D,100:100F12&amp;height=105&amp;section=footer" alt="Medieval dark gold footer" />
 
 </div>
