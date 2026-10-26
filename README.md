@@ -22,7 +22,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="52" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/mkfrey/com.mikrotik.WinBox/main/icons/winbox_256.png" width="52" alt="MikroTik WinBox" title="MikroTik WinBox" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/virtualbox/2F61B4" width="52" alt="VirtualBox" title="VirtualBox" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/gns3.png" width="52" alt="GNS3" title="GNS3" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3_logo.png" width="52" alt="GNS3" title="GNS3" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/putty.png" width="52" alt="PuTTY" title="PuTTY" />
 </p>
 
