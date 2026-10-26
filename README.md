@@ -16,9 +16,6 @@
 
 ---
 
-### 📜 About the Apprentice
-
-Saya **Dimas Reginald Bhamakerti**, mahasiswa yang sedang mendalami **Computer Networking**, terutama **Cisco** dan **MikroTik**. Saya belajar melalui simulasi, konfigurasi, troubleshooting, dan dokumentasi lab yang secara bertahap akan saya unggah ke GitHub.
 
 ### 🏅 Earned Insignia
 
