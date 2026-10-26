@@ -17,42 +17,17 @@
 ---
 
 
-### 🏅 Earned Insignia
-
-<table width="100%">
-<tr>
-<td width="65%" valign="middle">
-
-**MIKROTIK CERTIFIED NETWORK ASSOCIATE (MTCNA)**
-
-<img src="https://img.shields.io/badge/STATUS-CERTIFIED-228B65?style=flat-square&labelColor=302619" alt="Certified" />
-
-**Issued:** July 2026 &nbsp; · &nbsp; **Expires:** July 2029
-
-**Credential ID:** `2607NA1874`
-
-*One milestone earned, many lessons still ahead.*
-
-</td>
-<td width="35%" align="right" valign="middle">
-<img src="assets/freedom-speech.jpg" width="210" alt="Freedom of Speech by Norman Rockwell" />
-</td>
-</tr>
-</table>
-
 ### 🧰 Tools & Training Grounds
 
-<div align="center">
-<table>
-<tr>
-<td align="center"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="46" alt="Cisco"/><br/><sub><b>Packet Tracer</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/mikrotik/FFFFFF" width="46" alt="MikroTik"/><br/><sub><b>RouterOS</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/virtualbox/2F61B4" width="46" alt="VirtualBox"/><br/><sub><b>VirtualBox</b></sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3_logo.png" width="46" alt="GNS3"/><br/><sub><b>GNS3</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="46" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
-</tr>
-</table>
-</div>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mikrotik/FFFFFF" width="48" height="48" alt="MikroTik" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/virtualbox/2F61B4" width="48" height="48" alt="VirtualBox" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3_logo.png" width="48" height="48" alt="GNS3" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub" />
+</p>
+
+<p align="left"><strong>Cisco Packet Tracer &nbsp; · &nbsp; MikroTik RouterOS &nbsp; · &nbsp; VirtualBox &nbsp; · &nbsp; GNS3 &nbsp; · &nbsp; GitHub</strong></p>
 
 <div align="center">
 
