@@ -1,6 +1,6 @@
 <!-- Main visual identity: animated banner -->
 <p align="center">
-  <img src="./assets/networking_header.gif" alt="Dimas Reginald Bhamakerti — Networking Portfolio" width="100%" />
+  <img src="./assets/Logo.png." alt="Dimas Reginald Bhamakerti — Networking Portfolio" width="100%" />
 </p>
 
 <!-- A single credential accent; name and introduction already appear in the banner -->
