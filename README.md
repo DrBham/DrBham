@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/networking_header.gif"
+       alt="Dimas Networking Animation"
+       width="100%">
+</p>
+
 <div align="center">
 
 
