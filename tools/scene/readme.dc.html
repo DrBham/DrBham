@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<title>README GitHub</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;family=Cinzel:wght@600;700&amp;family=IM+Fell+English:ital@0;1&amp;display=swap">
+<style>
+body{margin:0}
+pre{margin:0;font:inherit;line-height:inherit;position:absolute}
+.b{color:#3d444d}
+.f{color:#ff8a1f;animation:fire .9s steps(2) infinite}
+.fd{color:#b8652a}
+.w{color:#e3b341;animation:win 2.6s steps(3) infinite}
+.r{color:#d1242f}
+.m{color:#6e7681}
+.wd{color:#a5714a}
+.st{position:absolute;color:#484f58;animation:tw 3s steps(3) infinite}
+.px{position:absolute;inset:0;display:grid;grid-template-columns:repeat(12,3px);grid-auto-rows:3px}
+.fa{animation:fa .5s step-end infinite}
+.fb{animation:fb .5s step-end infinite}
+.fast.fa{animation-duration:.3s}
+.fast.fb{animation-duration:.3s}
+.wv{animation:wv 1.8s linear infinite;opacity:0}
+.bub{position:absolute;bottom:calc(100% + 7px);left:50%;transform:translateX(-50%);white-space:nowrap;background:#f0e6d2;color:#1b1f24;font:700 9px/11px 'JetBrains Mono',Consolas,monospace;padding:3px 5px;border:2px solid #1b1f24;box-shadow:2px 2px 0 #000;opacity:0;animation:bub 18s step-end infinite;z-index:2}
+.bub::after{content:'';position:absolute;left:50%;top:100%;margin-left:-4px;border:4px solid transparent;border-top-color:#1b1f24}
+.bub.bl{left:0;transform:none}
+.bub.bl::after{left:12px}
+.bub.br{left:auto;right:0;transform:none}
+.bub.br::after{left:auto;right:8px}
+@keyframes bub{0%{opacity:1}11%{opacity:0}}
+@keyframes fa{0%{opacity:1}50%{opacity:0}100%{opacity:1}}
+@keyframes fb{0%{opacity:0}50%{opacity:1}100%{opacity:0}}
+@keyframes wv{0%{opacity:0}15%{opacity:1}70%{opacity:.6}100%{opacity:0}}
+@keyframes fire{0%{color:#ff8a1f}50%{color:#ffd28c}}
+@keyframes win{0%{color:#e3b341}33%{color:#9e6a03}66%{color:#f2cc60}}
+@keyframes tw{0%{opacity:1}33%{opacity:.35}66%{opacity:.7}}
+@keyframes spark{0%{opacity:1}25%{opacity:0}50%{opacity:1}60%{opacity:0}}
+@keyframes ember{0%{transform:translateY(0);opacity:1}100%{transform:translateY(-40px);opacity:0}}
+@keyframes door{0%{transform:translateX(0);opacity:0}6%{opacity:1}40%{transform:translateX(-80px)}58%{transform:translateX(-80px)}92%{transform:translateX(0);opacity:1}100%{transform:translateX(0);opacity:0}}
+@keyframes carry{0%{transform:translateX(0)}45%{transform:translateX(-28px)}55%{transform:translateX(-28px)}100%{transform:translateX(0)}}
+@keyframes climb{0%{transform:translateY(0)}40%{transform:translateY(-78px)}60%{transform:translateY(-78px)}100%{transform:translateY(0)}}
+@keyframes pull{0%{transform:translateX(0)}50%{transform:translateX(5px)}100%{transform:translateX(0)}}
+</style>
+</helmet>
+<div style="width: 1080px; height: 740px; box-sizing: border-box; padding: 24px; background: #0d1117; font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden">
+<div style="display: flex; align-items: center; gap: 4px; padding: 14px 16px; border-bottom: 1px solid #30363d; font-family: 'JetBrains Mono', Consolas, monospace; font-size: 14px">
+<span style="color: #e6edf3; font-weight: 700">DrBham</span>
+<span style="color: #7d8590">/</span>
+<span style="color: #e6edf3">README</span><span style="color: #7d8590">.md</span>
+</div>
+<div style="padding: 16px">
+
+<div style="width: 998px; height: 600px; box-sizing: border-box; outline: 1px dashed #30363d; display: flex; align-items: center; gap: 22px; padding: 0 22px; font-family: 'JetBrains Mono', Consolas, monospace">
+
+<div style="position: relative; flex: none; width: 81ch; height: 546px; font-size: 11px; line-height: 14px; color: #8b949e">
+<span class="st" style="left: 3ch; top: 14px">+</span>
+<span class="st" style="left: 15ch; top: 0px; animation-delay: .7s">.</span>
+<span class="st" style="left: 29ch; top: 28px; animation-delay: 1.4s">*</span>
+<span class="st" style="left: 50ch; top: 14px; animation-delay: .3s">+</span>
+<span class="st" style="left: 61ch; top: 42px; animation-delay: 2.1s">.</span>
+<span class="st" style="left: 70ch; top: 0px; animation-delay: 1s">*</span>
+<span class="st" style="left: 77ch; top: 28px; animation-delay: 1.8s">+</span>
+<span class="st" style="left: 12ch; top: 210px; animation-delay: .5s">.</span>
+<span class="st" style="left: 2ch; top: 238px; animation-delay: 2.4s">+</span>
+<span class="st" style="left: 10ch; top: 308px; animation-delay: 1.2s">*</span>
+<span class="st" style="left: 18ch; top: 392px; animation-delay: .2s">.</span>
+<span class="st" style="left: 5ch; top: 434px; animation-delay: 1.6s">+</span>
+<span class="st" style="left: 68ch; top: 196px; animation-delay: 2.7s">.</span>
+<span class="st" style="left: 66ch; top: 266px; animation-delay: .9s">+</span>
+<span class="st" style="left: 73ch; top: 336px; animation-delay: 2s">*</span>
+<span class="st" style="left: 60ch; top: 420px; animation-delay: .4s">.</span>
+
+
+<pre aria-hidden="true" style="left: 39ch; top: 70px; color: #ffd28c; animation: ember 1.6s linear infinite">*</pre>
+<pre aria-hidden="true" style="left: 41ch; top: 70px; color: #ff8a1f; animation: ember 2.2s linear infinite; animation-delay: .8s">'</pre>
+<pre aria-hidden="true" style="left: 40ch; top: 70px; color: #ffb35c; animation: ember 1.9s linear infinite; animation-delay: 1.3s">.</pre>
+
+<pre aria-label="ASCII beacon tower" role="img" style="left: 0; top: 84px; width: 81ch; text-align: center">.
+/^\
+<span class="fd">(</span><span class="f">@@@</span><span class="fd">)</span>
+\<span class="f">@</span>/
+|
+(<span style="color: {{arcane}}">o</span>)<span class="m">==========</span>[<span class="b">_</span>]<span class="m">==========</span>(<span style="color: {{arcane}}">o</span>)
+ |           |<span class="b">_</span>|           |
+ <span class="r">V</span>          /<span class="b">_|_</span>\          <span class="r">V</span>
+|^v^v^|
+|<span class="b">_|___</span>|
+_|_|_|_|_
+|<span class="b">___|___</span>|
+|<span class="b">_|</span><span class="w">.-.</span><span class="b">|_</span>|
+|<span class="b">__</span><span class="w">|+|</span><span class="b">__</span>|
+|<span class="b">_|</span><span class="w">'-'</span><span class="b">|_</span>|
+|<span class="b">___|___</span>|
+/<span class="b">_|___|___</span>\
+|<span class="b">_</span><span class="w">[]</span><span class="b">_|_</span><span class="w">[]</span><span class="b">_</span>|
+|<span class="b">___|___|_</span>|
+_|_|_|_|_|_|_
+|<span class="b">_|___|___|_</span>|
+|<span class="b">_</span><span class="w">[]</span><span class="b">_|___</span><span class="w">[]</span><span class="b">_</span>|
+|<span class="b">___|___|___</span>|
+|<span class="b">_|___</span><span class="w">:</span><span class="b">___|_</span>|
+/<span class="b">_|___|___|___|_</span>\
+|<span class="b">_</span><span class="w">[]</span><span class="b">__|___|__</span><span class="w">[]</span><span class="b">_</span>|
+|<span class="b">___|__</span>.-.<span class="b">__|___</span>|
+|<span class="b">_|___</span>/   \<span class="b">___|_</span>|
+|<span class="b">___|_</span>|   |<span class="b">___|_</span>|
+|<span class="b">_|___</span>|   |<span class="b">_|___</span>|
+_____|<span class="b">___|_</span>|___|<span class="b">_|___</span>|_____</pre>
+
+<pre aria-hidden="true" class="wv" style="left: 22ch; top: 140px; color: {{arcane}}"> /
+(
+ \</pre>
+<pre aria-hidden="true" class="wv" style="left: 14ch; top: 126px; color: {{arcane}}; animation-delay: .45s"><span style="opacity: .65"> /
+(
+(
+(
+ \</span></pre>
+<pre aria-hidden="true" class="wv" style="left: 6ch; top: 112px; color: {{arcane}}; animation-delay: .9s"><span style="opacity: .35">  /
+ /
+(
+(
+(
+ \
+  \</span></pre>
+<pre aria-hidden="true" class="wv" style="left: 57ch; top: 140px; color: {{arcane}}">\
+ )
+/</pre>
+<pre aria-hidden="true" class="wv" style="left: 65ch; top: 126px; color: {{arcane}}; animation-delay: .45s"><span style="opacity: .65">\
+ )
+ )
+ )
+/</span></pre>
+<pre aria-hidden="true" class="wv" style="left: 72ch; top: 112px; color: {{arcane}}; animation-delay: .9s"><span style="opacity: .35">\
+ \
+  )
+  )
+  )
+ /
+/</span></pre>
+
+<pre aria-hidden="true" style="left: 0; top: 518px; width: 81ch; overflow: hidden; color: #5c4a3d">_.,-~'`_.-~,_'`.~-_,.'~`-_.,~'_-`.,~_'-.`,_~'.-_`,~.'_-~`,._'-~.`_,-'~._`-,~'._-~</pre>
+
+<pre aria-hidden="true" style="left: 42ch; top: 126px; color: #9e6a03">..</pre>
+<pre aria-hidden="true" class="wd" style="left: 50ch; top: 364px">|-|
+|-|
+|-|
+|-|
+|-|
+|-|
+|-|
+|-|
+|-|
+|-|</pre>
+<pre aria-hidden="true" class="wd" style="left: 9ch; top: 476px"> .-.
+( @ )~~
+ '-'</pre>
+<pre aria-hidden="true" class="wd" style="left: 23ch; top: 504px">~~~~</pre>
+
+<div role="img" aria-label="Pekerja memperbaiki emitter di crossbar" style="position: absolute; left: 44ch; top: 110px; width: 36px; height: 48px">
+<span class="bub">Emitter's down, lad!</span>
+<span class="bub" style="animation-delay: 16s">Signal's back!</span>
+<div class="px fa fast"><sc-for list="{{repA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+<div class="px fb fast"><sc-for list="{{repB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+</div>
+<pre aria-hidden="true" style="left: 51ch; top: 126px; color: #ffd28c; animation: spark .6s steps(1) infinite"> *'
+' .</pre>
+
+<div role="img" aria-label="Pekerja memanjat tangga" style="position: absolute; left: calc(51.5ch - 18px); top: 450px; width: 36px; height: 48px; animation: climb 9s ease-in-out infinite">
+<span class="bub" style="animation-delay: 10s">Need a hand, sire?</span>
+<div class="px fa"><sc-for list="{{upA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+<div class="px fb"><sc-for list="{{upB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+</div>
+
+<div role="img" aria-label="Pekerja keluar masuk gerbang tower" style="position: absolute; left: calc(40.5ch - 18px); top: 468px; width: 36px; height: 48px; animation: door 18s linear infinite">
+<span class="bub" style="animation-delay: 12s">Casting reboot...</span>
+<div class="px fa"><sc-for list="{{doorA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+<div class="px fb"><sc-for list="{{doorB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+</div>
+
+<div role="img" aria-label="Pekerja menarik kabel" style="position: absolute; left: 17ch; top: 468px; width: 36px; height: 48px; animation: pull 1.4s ease-in-out infinite">
+<span class="bub" style="animation-delay: 6s">Hauling the cable!</span>
+<div class="px fa"><sc-for list="{{cabA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+<div class="px fb"><sc-for list="{{cabB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+</div>
+
+<div role="img" aria-label="Pekerja membawa peti perlengkapan" style="position: absolute; left: 61ch; top: 468px; width: 36px; height: 48px; animation: carry 13s ease-in-out infinite">
+<span class="bub" style="animation-delay: 8s; bottom: calc(100% + 26px)">New router here</span>
+<div class="px fa"><sc-for list="{{carA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+<div class="px fb"><sc-for list="{{carB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+<div style="position: absolute; left: -14px; top: 24px; display: grid; grid-template-columns: repeat(7, 3px); grid-auto-rows: 3px"><sc-for list="{{crate}}" as="p" hint-placeholder-count="35"><div style="background: {{p.c}}"></div></sc-for></div>
+</div>
+
+<div role="img" aria-label="Hacker duduk sendirian memakai laptop" style="position: absolute; left: 1ch; top: 470px; width: 36px; height: 48px">
+<span class="bub bl" style="animation-delay: 2s">ping 10.0.0.1</span>
+<span class="bub bl" style="animation-delay: 14s">reply 2ms :)</span>
+<div class="px fa fast"><sc-for list="{{hakA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+<div class="px fb fast"><sc-for list="{{hakB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+</div>
+
+<div role="img" aria-label="Rak server" style="position: absolute; left: 75ch; top: 458px; width: 30px; height: 60px">
+<div class="fa" style="position: absolute; inset: 0; display: grid; grid-template-columns: repeat(10, 3px); grid-auto-rows: 3px; animation-duration: .8s"><sc-for list="{{rackA}}" as="p" hint-placeholder-count="200"><div style="background: {{p.c}}"></div></sc-for></div>
+<div class="fb" style="position: absolute; inset: 0; display: grid; grid-template-columns: repeat(10, 3px); grid-auto-rows: 3px; animation-duration: .8s"><sc-for list="{{rackB}}" as="p" hint-placeholder-count="200"><div style="background: {{p.c}}"></div></sc-for></div>
+</div>
+<div role="img" aria-label="Teknisi mengerjakan server" style="position: absolute; left: calc(75ch - 37px); top: 470px; width: 36px; height: 48px">
+<span class="bub br" style="animation-delay: 4s">Rack 3 rebooting</span>
+<div class="px fa"><sc-for list="{{srvA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+<div class="px fb"><sc-for list="{{srvB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
+</div>
+</div>
+
+<div style="flex: 1 1 auto; min-width: 0; height: 548px; box-sizing: border-box; position: relative; background: #11151b; border: 1px solid #5a4a2a; outline: 1px solid #2a2216; outline-offset: 3px; padding: 22px 22px 18px; display: flex; flex-direction: column; gap: 14px; color: #c9d1d9; font-size: 12px; line-height: 17px">
+<span style="position: absolute; left: -4px; top: -4px; width: 7px; height: 7px; background: #c9a227"></span>
+<span style="position: absolute; right: -4px; top: -4px; width: 7px; height: 7px; background: #c9a227"></span>
+<span style="position: absolute; left: -4px; bottom: -4px; width: 7px; height: 7px; background: #c9a227"></span>
+<span style="position: absolute; right: -4px; bottom: -4px; width: 7px; height: 7px; background: #c9a227"></span>
+
+<div style="display: flex; flex-direction: column; gap: 6px">
+<div style="font-size: 10px; letter-spacing: 3px; color: #c9a227">CHARACTER SHEET</div>
+<div style="font-family: Cinzel, Georgia, serif; font-size: 25px; line-height: 28px; font-weight: 700; color: #f0e6d2">Dimas Reginald Bhamakerti</div>
+<div style="font-family: 'IM Fell English', Georgia, serif; font-style: italic; font-size: 15px; color: #b8a888">Network Apprentice, Level 1</div>
+</div>
+
+<div style="height: 3px; background: linear-gradient(90deg, #9b2c2c, #9b2c2c 60%, transparent)"></div>
+
+<div style="display: flex; gap: 16px; align-items: center">
+<div style="flex: none; width: 64px; height: 64px; border-radius: 50%; background: #7a1d1d; border: 3px solid #4a1010; box-shadow: inset 0 0 0 2px #9b2c2c; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px">
+<span style="font-family: Cinzel, Georgia, serif; font-size: 12px; font-weight: 700; color: #f2d58a; letter-spacing: .5px">MTCNA</span>
+<span style="font-size: 7px; letter-spacing: 1.5px; color: #e0b8a0">SEALED</span>
+</div>
+<div style="flex: 1; display: flex; flex-direction: column; gap: 4px">
+<div style="display: flex; gap: 6px; align-items: baseline"><span style="color: #9b2c2c; font-family: Cinzel, Georgia, serif; font-weight: 700">Class</span><span style="flex: 1; border-bottom: 1px dotted #3d444d"></span><span>Network Apprentice</span></div>
+<div style="display: flex; gap: 6px; align-items: baseline"><span style="color: #9b2c2c; font-family: Cinzel, Georgia, serif; font-weight: 700">Guilds</span><span style="flex: 1; border-bottom: 1px dotted #3d444d"></span><span>Cisco · MikroTik</span></div>
+<div style="display: flex; gap: 6px; align-items: baseline"><span style="color: #9b2c2c; font-family: Cinzel, Georgia, serif; font-weight: 700">Seal</span><span style="flex: 1; border-bottom: 1px dotted #3d444d"></span><span style="color: #3fb950">MTCNA, certified</span></div>
+</div>
+</div>
+
+<div style="height: 3px; background: linear-gradient(90deg, #9b2c2c, #9b2c2c 60%, transparent)"></div>
+
+<div style="display: flex; flex-direction: column; gap: 8px">
+<div style="font-family: Cinzel, Georgia, serif; font-size: 14px; font-weight: 700; color: #c9a227">Inventory</div>
+<div style="display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 5px">
+<div style="width: 54px; height: 54px; box-sizing: border-box; background: #0a0d11; border: 1px solid #5a4a2a; box-shadow: inset 0 0 0 2px #161b22; display: flex; align-items: center; justify-content: center"><img src="/_blob/0b623881f81cc4b770d0098b736cd6a1" alt="Cisco Packet Tracer" style="width: 38px; height: 38px; object-fit: contain"></div>
+<span style="font-size: 9.5px; line-height: 11px; color: #8b949e; text-align: center">Packet Tracer</span>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 5px">
+<div style="width: 54px; height: 54px; box-sizing: border-box; background: #0a0d11; border: 1px solid #5a4a2a; box-shadow: inset 0 0 0 2px #161b22; display: flex; align-items: center; justify-content: center"><img src="/_blob/34355a701104bb1e7ad00948b0db400f" alt="MikroTik WinBox" style="width: 38px; height: 38px; object-fit: contain"></div>
+<span style="font-size: 9.5px; line-height: 11px; color: #8b949e; text-align: center">WinBox</span>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 5px">
+<div style="width: 54px; height: 54px; box-sizing: border-box; background: #0a0d11; border: 1px solid #5a4a2a; box-shadow: inset 0 0 0 2px #161b22; display: flex; align-items: center; justify-content: center"><img src="/_blob/88d716b4b6f8a8a2b96c71e8760e8537" alt="GNS3" style="width: 38px; height: 38px; object-fit: contain"></div>
+<span style="font-size: 9.5px; line-height: 11px; color: #8b949e; text-align: center">GNS3</span>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 5px">
+<div style="width: 54px; height: 54px; box-sizing: border-box; background: #0a0d11; border: 1px solid #5a4a2a; box-shadow: inset 0 0 0 2px #161b22; display: flex; align-items: center; justify-content: center"><img src="/_blob/5ad21c6baa227ca8551b833845618c89" alt="VirtualBox" style="width: 38px; height: 38px; object-fit: contain"></div>
+<span style="font-size: 9.5px; line-height: 11px; color: #8b949e; text-align: center">VirtualBox</span>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 5px">
+<div style="width: 54px; height: 54px; box-sizing: border-box; background: #0a0d11; border: 1px solid #5a4a2a; box-shadow: inset 0 0 0 2px #161b22; display: flex; align-items: center; justify-content: center"><img src="/_blob/e8c00c3b1915b9e8e37f75d565a682fa" alt="PuTTY" style="width: 38px; height: 38px; object-fit: contain"></div>
+<span style="font-size: 9.5px; line-height: 11px; color: #8b949e; text-align: center">PuTTY</span>
+</div>
+</div>
+</div>
+
+<div style="height: 3px; background: linear-gradient(90deg, #9b2c2c, #9b2c2c 60%, transparent)"></div>
+
+<div style="display: flex; flex-direction: column; gap: 8px">
+<div style="display: flex; align-items: center; justify-content: space-between">
+<span style="font-family: Cinzel, Georgia, serif; font-size: 14px; font-weight: 700; color: #c9a227">Active Quest</span>
+<span style="font-size: 9px; letter-spacing: 1.5px; color: #e3b341; border: 1px solid #6b5416; padding: 2px 6px">IN PROGRESS</span>
+</div>
+<div style="display: flex; gap: 8px"><span style="color: {{arcane}}">▸</span><span>Learning networking through simulations, configuration, and hands-on labs.</span></div>
+</div>
+
+<div style="margin-top: auto; font-family: 'IM Fell English', Georgia, serif; font-style: italic; font-size: 14px; color: #8b7d63; text-align: center">"Every great adventurer begins at level one."</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"arcane":{"editor":"color","default":"#58a6ff","options":["#58a6ff","#39d3bb","#a371f7","#e3b341"]},"$preview":{"width":1080,"height":740}}'>
+class Component extends DCLogic {
+renderVals() {
+const BODY = [
+'....KKKK....',
+'...KYYYYK...',
+'..KYYYYYYK..',
+'.KYYYYYYYYK.',
+'KyyyyyyyyyyK',
+'.KSSSSSSSSK.',
+'.KSKSSSSKSK.',
+'.KSSSSSSSSK.',
+'..KsSSSSsK..',
+'.KOOROOROOK.',
+'KGOOROOROOGK',
+'KGOOOOOOOOGK',
+'.KBBBBBBBBK.'
+];
+const LEGS_A = ['.KBBK..KBBK.', '.KWWK..KWWK.', '.KKKK..KKKK.'];
+const LEGS_B = ['KBBK....KBBK', 'KWWK....KWWK', 'KKKK....KKKK'];
+const ARM_UP = [
+'....KKKK....',
+'...KYYYYK...',
+'..KYYYYYYK..',
+'.KYYYYYYYYK.',
+'KyyyyyyyyyyK',
+'.KSSSSSSSSK.',
+'.KSKSSSSKSK.',
+'.KSSSSSSSSKG',
+'..KsSSSSsKGK',
+'.KOOROOROOGK',
+'KGOOROOROOK.',
+'KGOOOOOOOOK.',
+'.KBBBBBBBBK.'
+];
+const base = { K: '#1b1f24', S: '#f1c6a0', s: '#c98e6a', R: '#e6edf3', G: '#8b949e', B: '#3b5b8c', W: '#5c3a21', w: '#a5714a' };
+const pal = (Y, y, O) => Object.assign({}, base, { Y: Y, y: y, O: O });
+const grid = (rows, p) => {
+const out = [];
+rows.forEach((r) => { for (const ch of r) out.push({ c: ch === '.' ? 'transparent' : p[ch] }); });
+return out;
+};
+const yellow = pal('#f2c94c', '#c99a2e', '#f0883e');
+const white = pal('#e6edf3', '#a8b1bb', '#9ccc3c');
+const orange = pal('#f0883e', '#b85c1e', '#e3d04a');
+const blue = pal('#58a6ff', '#2f6fb8', '#f0883e');
+const red = pal('#e5534b', '#a8322d', '#9ccc3c');
+const walk = (p) => [grid(BODY.concat(LEGS_A), p), grid(BODY.concat(LEGS_B), p)];
+const DWARF = [
+'..KKKKKKKK..',
+'.KMMMMMMMMK.',
+'KMMMMMMMMMMK',
+'KmmmmmmmmmmK',
+'.KSKSSSSKSK.',
+'.KSSSSSSSSK.',
+'KDDSSSSSSDDK',
+'KDDDDDDDDDDK',
+'.KDDDDDDDDK.',
+'.KTTDDDDTTK.',
+'KSTTTDDTTTSK',
+'KSTTTTTTTTSK',
+'.KLLLLLLLLK.'
+];
+const DWARF_UP = DWARF.slice(0, 6).concat([
+'KDDSSSSSSDKM',
+'KDDDDDDDDDKM',
+'.KDDDDDDDDKS',
+'.KTTDDDDTTSK',
+'KSTTTDDTTTK.',
+'KSTTTTTTTTK.',
+'.KLLLLLLLLK.'
+]);
+const KNIGHT = [
+'...KKKKKK...',
+'..KMMMMMMK..',
+'.KMMMMMMMMK.',
+'.KMMMMMMMMK.',
+'.KMKKKKKKMK.',
+'.KMMMMMMMMK.',
+'.KmMMMMMMmK.',
+'..KmmmmmmK..',
+'.KKRRRRRRKK.',
+'KMKRRYYRRKMK',
+'KMKYYYYYYKMK',
+'KMKRRYYRRKMK',
+'.KmmmmmmmmK.'
+];
+const WIZARD = [
+'.....KK.....',
+'....KPPK....',
+'...KPPPPK...',
+'..KPPYPPPK..',
+'KKPPPPPPPPKK',
+'.KSSSSSSSSK.',
+'.KSKSSSSKSK.',
+'.KSSSSSSSSK.',
+'.KwwSSSSwwK.',
+'KPPwwwwwwPPK',
+'KSPPwwwwPPSK',
+'KPPPPwwPPPPK',
+'.KPPPPPPPPK.'
+];
+const ROBE_A = ['.KPPPPPPPPK.', 'KPPPPPPPPPPK', 'KKWWKKKKWWKK'];
+const ROBE_B = ['.KPPPPPPPPK.', 'KPPPPPPPPPPK', 'KWWKKKKKKWWK'];
+const RANGER = [
+'....KKKK....',
+'...KGGGGK...',
+'..KGGGGGGK..',
+'.KGGGGGGGGK.',
+'.KGgSSSSgGK.',
+'.KGSKSSKSGK.',
+'.KGSSSSSSGK.',
+'.KGgSSSSgGK.',
+'..KGGGGGGK..',
+'.KGTTTTTTGK.',
+'KSGTTLLTTGSK',
+'KSGTTTTTTGSK',
+'.KLLLLLLLLK.'
+];
+const dwarfP = Object.assign({}, base, { M: '#8b949e', m: '#5a636e', D: '#c0532b', T: '#7a4a2a', L: '#3d2a1a', B: '#4a3a2a' });
+const knightP = Object.assign({}, base, { M: '#b1bac4', m: '#6e7681', R: '#b62324', Y: '#c9a227', B: '#8b949e', W: '#484f58' });
+const wizardP = Object.assign({}, base, { P: '#4b3f8f', Y: '#f2cc60', w: '#e6edf3' });
+const rangerP = Object.assign({}, base, { G: '#2f6b3a', g: '#1e4526', T: '#6b4a2a', L: '#3d2a1a', B: '#4a3a2a' });
+const rep = [grid(DWARF.concat(LEGS_A), dwarfP), grid(DWARF_UP.concat(LEGS_A), dwarfP)];
+const up = [grid(KNIGHT.concat(LEGS_A), knightP), grid(KNIGHT.concat(LEGS_B), knightP)];
+const door = [grid(WIZARD.concat(ROBE_A), wizardP), grid(WIZARD.concat(ROBE_B), wizardP)];
+const cab = [grid(RANGER.concat(LEGS_A), rangerP), grid(RANGER.concat(LEGS_B), rangerP)];
+const car = walk(red);
+const crate = grid(['KKKKKKK', 'KwwwwwK', 'KKKKKKK', 'KwwwwwK', 'KKKKKKK'], base);
+const srv = [grid(BODY.concat(LEGS_A), pal('#3fb950', '#238636', '#f0883e')), grid(ARM_UP.concat(LEGS_A), pal('#3fb950', '#238636', '#f0883e'))];
+const HACK = [
+'...KKKKK....',
+'..KHHHHHK...',
+'.KHHHHHHHK..',
+'.KHhhSSSSK..',
+'.KHhSSKSSK..',
+'.KHhSSSSSKKK',
+'..KHhhhhKCCK',
+'.KHHHHHHKCCK',
+'KHHHHHHHKCCK',
+'KHHGGHHHLLLK',
+'.KBBBBBBBBBK',
+'.KBBBBBBBBBK',
+'.KkkkkkkKBK.',
+'.KkkkkkkKBK.',
+'.KkkkkkkKWK.',
+'.KKKKKKKKKK.'
+];
+const hp = Object.assign({}, base, { H: '#3b2a5a', h: '#241a38', C: '#3fb950', c: '#1f6f2f', L: '#6e7681', k: '#484f58', B: '#21262d', G: '#f1c6a0' });
+const hackB = HACK.map((r, i) => i === 9 ? 'KHHHGGHHLLLK' : (i >= 6 && i <= 8 ? r.replace('CC', 'Cc') : r));
+const RACK = [
+'KKKKKKKKKK',
+'KMMMMMMMMK',
+'KddddddddK',
+'KdssssLAdK',
+'KddddddddK',
+'KdssssLLdK',
+'KddddddddK',
+'KdssssALdK',
+'KddddddddK',
+'KdssssLLdK',
+'KddddddddK',
+'KdssssLAdK',
+'KddddddddK',
+'KdssssLLdK',
+'KddddddddK',
+'KdssssALdK',
+'KddddddddK',
+'KMMMMMMMMK',
+'KK......KK',
+'KK......KK'
+];
+const rp = Object.assign({}, base, { M: '#484f58', d: '#30363d', s: '#161b22', L: '#3fb950', A: '#e3b341' });
+const rackB = RACK.map((r) => r.replace(/[LA]/g, (c) => (c === 'L' ? 'A' : 'L')));
+return {
+arcane: this.props.arcane ?? '#58a6ff',
+repA: rep[0], repB: rep[1],
+upA: up[0], upB: up[1],
+doorA: door[0], doorB: door[1],
+cabA: cab[0], cabB: cab[1],
+carA: car[0], carB: car[1],
+crate: crate,
+srvA: srv[0], srvB: srv[1],
+hakA: grid(HACK, hp), hakB: grid(hackB, hp),
+rackA: grid(RACK, rp), rackB: grid(rackB, rp)
+};
+}
+}
+</script>
+</body>
+</html>
