@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;family=Cinzel:wght@600;700&amp;family=IM+Fell+English:ital@0;1&amp;display=swap">
 <style>
 body{margin:0}
-pre{margin:0;font:inherit;line-height:inherit;position:absolute}
+pre{margin:0;font:inherit;line-height:inherit;position:absolute;font-variant-ligatures:none;font-feature-settings:"liga" 0,"calt" 0}
 .b{color:#3d444d}
 .f{color:#ff8a1f;animation:fire .9s steps(2) infinite}
 .fd{color:#b8652a}
@@ -162,7 +162,7 @@ _____|<span class="b">___|_</span>|___|<span class="b">_|___</span>|_____</pre>
  '-'</pre>
 <pre aria-hidden="true" class="wd" style="left: 23ch; top: 504px">~~~~</pre>
 
-<div role="img" aria-label="Pekerja memperbaiki emitter di crossbar" style="position: absolute; left: 44ch; top: 110px; width: 36px; height: 48px">
+<div role="img" aria-label="Pekerja memperbaiki emitter di crossbar" style="position: absolute; left: 290px; top: 110px; width: 36px; height: 48px">
 <span class="bub">Emitter's down, lad!</span>
 <span class="bub" style="animation-delay: 16s">Signal's back!</span>
 <div class="px fa fast"><sc-for list="{{repA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
@@ -171,43 +171,43 @@ _____|<span class="b">___|_</span>|___|<span class="b">_|___</span>|_____</pre>
 <pre aria-hidden="true" style="left: 51ch; top: 126px; color: #ffd28c; animation: spark .6s steps(1) infinite"> *'
 ' .</pre>
 
-<div role="img" aria-label="Pekerja memanjat tangga" style="position: absolute; left: calc(51.5ch - 18px); top: 450px; width: 36px; height: 48px; animation: climb 9s ease-in-out infinite">
+<div role="img" aria-label="Pekerja memanjat tangga" style="position: absolute; left: 322px; top: 450px; width: 36px; height: 48px; animation: climb 9s ease-in-out infinite">
 <span class="bub" style="animation-delay: 10s">Need a hand, sire?</span>
 <div class="px fa"><sc-for list="{{upA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
 <div class="px fb"><sc-for list="{{upB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
 </div>
 
-<div role="img" aria-label="Pekerja keluar masuk gerbang tower" style="position: absolute; left: calc(40.5ch - 18px); top: 468px; width: 36px; height: 48px; animation: door 18s linear infinite">
+<div role="img" aria-label="Pekerja keluar masuk gerbang tower" style="position: absolute; left: 249px; top: 468px; width: 36px; height: 48px; animation: door 18s linear infinite">
 <span class="bub" style="animation-delay: 12s">Casting reboot...</span>
 <div class="px fa"><sc-for list="{{doorA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
 <div class="px fb"><sc-for list="{{doorB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
 </div>
 
-<div role="img" aria-label="Pekerja menarik kabel" style="position: absolute; left: 17ch; top: 468px; width: 36px; height: 48px; animation: pull 1.4s ease-in-out infinite">
+<div role="img" aria-label="Pekerja menarik kabel" style="position: absolute; left: 112px; top: 468px; width: 36px; height: 48px; animation: pull 1.4s ease-in-out infinite">
 <span class="bub" style="animation-delay: 6s">Hauling the cable!</span>
 <div class="px fa"><sc-for list="{{cabA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
 <div class="px fb"><sc-for list="{{cabB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
 </div>
 
-<div role="img" aria-label="Pekerja membawa peti perlengkapan" style="position: absolute; left: 61ch; top: 468px; width: 36px; height: 48px; animation: carry 13s ease-in-out infinite">
+<div role="img" aria-label="Pekerja membawa peti perlengkapan" style="position: absolute; left: 403px; top: 468px; width: 36px; height: 48px; animation: carry 13s ease-in-out infinite">
 <span class="bub" style="animation-delay: 8s; bottom: calc(100% + 26px)">New router here</span>
 <div class="px fa"><sc-for list="{{carA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
 <div class="px fb"><sc-for list="{{carB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
 <div style="position: absolute; left: -14px; top: 24px; display: grid; grid-template-columns: repeat(7, 3px); grid-auto-rows: 3px"><sc-for list="{{crate}}" as="p" hint-placeholder-count="35"><div style="background: {{p.c}}"></div></sc-for></div>
 </div>
 
-<div role="img" aria-label="Hacker duduk sendirian memakai laptop" style="position: absolute; left: 1ch; top: 470px; width: 36px; height: 48px">
+<div role="img" aria-label="Hacker duduk sendirian memakai laptop" style="position: absolute; left: 7px; top: 470px; width: 36px; height: 48px">
 <span class="bub bl" style="animation-delay: 2s">ping 10.0.0.1</span>
 <span class="bub bl" style="animation-delay: 14s">reply 2ms :)</span>
 <div class="px fa fast"><sc-for list="{{hakA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
 <div class="px fb fast"><sc-for list="{{hakB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
 </div>
 
-<div role="img" aria-label="Rak server" style="position: absolute; left: 75ch; top: 458px; width: 30px; height: 60px">
+<div role="img" aria-label="Rak server" style="position: absolute; left: 495px; top: 458px; width: 30px; height: 60px">
 <div class="fa" style="position: absolute; inset: 0; display: grid; grid-template-columns: repeat(10, 3px); grid-auto-rows: 3px; animation-duration: .8s"><sc-for list="{{rackA}}" as="p" hint-placeholder-count="200"><div style="background: {{p.c}}"></div></sc-for></div>
 <div class="fb" style="position: absolute; inset: 0; display: grid; grid-template-columns: repeat(10, 3px); grid-auto-rows: 3px; animation-duration: .8s"><sc-for list="{{rackB}}" as="p" hint-placeholder-count="200"><div style="background: {{p.c}}"></div></sc-for></div>
 </div>
-<div role="img" aria-label="Teknisi mengerjakan server" style="position: absolute; left: calc(75ch - 37px); top: 470px; width: 36px; height: 48px">
+<div role="img" aria-label="Teknisi mengerjakan server" style="position: absolute; left: 458px; top: 470px; width: 36px; height: 48px">
 <span class="bub br" style="animation-delay: 4s">Rack 3 rebooting</span>
 <div class="px fa"><sc-for list="{{srvA}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
 <div class="px fb"><sc-for list="{{srvB}}" as="p" hint-placeholder-count="192"><div style="background: {{p.c}}"></div></sc-for></div>
