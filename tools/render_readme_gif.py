@@ -22,7 +22,8 @@ OUT = ROOT / "assets" / "readme.gif"
 
 LOOP_S = 18.0          # every animation period divides this, so the GIF loops seamlessly
 FPS = 10
-WIDTH, HEIGHT = 998, 600
+WIDTH, HEIGHT = 998, 600   # CSS px of the design
+SCALE = 2                  # render at 2x so it stays sharp when GitHub scales it up
 ARCANE = "#58a6ff"
 
 BROWSERS = [
@@ -115,7 +116,7 @@ def render():
     n = int(LOOP_S * FPS)
     with sync_playwright() as pw:
         browser = pw.chromium.launch(executable_path=exe, headless=True)
-        page = browser.new_page(viewport={"width": WIDTH, "height": HEIGHT}, device_scale_factor=1)
+        page = browser.new_page(viewport={"width": WIDTH, "height": HEIGHT}, device_scale_factor=SCALE)
         page.goto(PAGE.as_uri())
         page.wait_for_load_state("networkidle")
         page.evaluate("document.fonts.ready")
@@ -130,15 +131,16 @@ def render():
         browser.close()
 
     # One shared palette for every frame keeps colours steady (no flicker).
-    sample = Image.new("RGB", (WIDTH, HEIGHT * 6))
+    fw, fh = frames[0].size
+    sample = Image.new("RGB", (fw, fh * 6))
     for i in range(6):
-        sample.paste(frames[i * n // 6], (0, HEIGHT * i))
+        sample.paste(frames[i * n // 6], (0, fh * i))
     pal = sample.quantize(colors=255, method=Image.Quantize.MEDIANCUT)
     out = [fr.quantize(palette=pal, dither=Image.Dither.NONE) for fr in frames]
     out[0].save(OUT, save_all=True, append_images=out[1:], duration=int(1000 / FPS),
                 loop=0, optimize=True, disposal=1)
     frames[0].save(PAGE.with_name("preview.png"))
-    print(f"wrote {OUT} ({OUT.stat().st_size / 1e6:.2f} MB, {n} frames, {WIDTH}x{HEIGHT})")
+    print(f"wrote {OUT} ({OUT.stat().st_size / 1e6:.2f} MB, {n} frames, {fw}x{fh})")
 
 
 if __name__ == "__main__":
